@@ -1,6 +1,6 @@
 <Tiles>
   <sensor>
-    <gamepad label="gamepad">Allow a player to control a character.  Specify button, trigger, or stick, and optionally player.</gamepad>
+    <gamepad label="gamepad">Allow a player to control a character.å  Specify button, trigger, or stick, and optionally player.</gamepad>
     <keyboard label="keyboard">Allow a player to control a character.  Specify which key.</keyboard>
     <mouse label="mouse">Respond to mouse input.</mouse>
     <touch label="touch">Respond to touch input.</touch>
