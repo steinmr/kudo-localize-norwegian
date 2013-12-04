@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <XmlOverlayData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
   <overlay>
@@ -2334,7 +2334,7 @@
     <bottom mid = "false">Press <![CDATA[<back>]]> to edit.</bottom>
 
     <keyMouseBottom>Press [Esc] to edit.</keyMouseBottom>
-    <touchBottom>Swipe up to edit.</touchBottom>
+    <touchBottom>Tap here to edit.</touchBottom>
   </overlay>
 
   <overlay>

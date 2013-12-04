@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <Strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
   <foo>The foo string</foo>
 
   <actorNames>
-    <balloon>Ballong</balloon>
-    <bigYucca1>Tre</bigYucca1>
-    <bigYucca2>Tre</bigYucca2>
+    <balloon>Balloon</balloon>
+    <bigYucca1>Tree</bigYucca1>
+    <bigYucca2>Tree</bigYucca2>
     <boku>Kodu</boku>
     <bullet>Ammo</bullet>
-    <cloud>Sky</cloud>
-    <castle>Slott</castle>
-    <coin>Mynt</coin>
+    <cloud>Cloud</cloud>
+    <castle>Castle</castle>
+    <coin>Coin</coin>
     <cycle>Cycle</cycle>
     <soccerBall>Ball</soccerBall>
     <daisy>Daisy</daisy>
     <drum>Drum</drum>
     <factory>Factory</factory>
-    <floatBot>Skip</floatBot>
+    <floatBot>Ship</floatBot>
     <flower>Flower</flower>
     <flyFish>Flyfish</flyFish>
     <fruit>Apple</fruit>
@@ -27,6 +27,8 @@
     <jet>Jet</jet>
     <light>Light</light>
     <mine>Mine</mine>
+    <missile>Missile</missile>
+    <pipe>Pipe</pipe>
     <popsy>Popsy</popsy>
     <puck>Puck</puck>
     <pushPad>Push Pad</pushPad>
@@ -93,6 +95,8 @@
     <resume>RESUME</resume>
     <new>NEW WORLD</new>
     <play>LOAD WORLD</play>
+    <import>IMPORT FROM DESKTOP</import>
+    <importWorldsCommitButtonText>Load World(s)</importWorldsCommitButtonText>
     <learning>LEARNING</learning>
     <community>COMMUNITY</community>
     <share>SHARE</share>
@@ -117,6 +121,8 @@
     <more>more!</more>
     <less>less</less>
     <news>NEWS</news>
+    <readMoreHere>Read more here!</readMoreHere>
+    <paused>Kodu paused.  Restore to full width to resume.</paused>
   </mainMenu>
 
   <programming>
@@ -134,8 +140,8 @@
     <titleXbox>Programming</titleXbox>
     <sayStringPromptXbox>Enter Text</sayStringPromptXbox>
 
-    <when>When</when>
-    <do>Do</do>
+    <when>WHEN</when>
+    <do>DO</do>
 
     <help>Help</help>
     <cutTile>Cut Tile</cutTile>
@@ -163,14 +169,14 @@
     <options>Options</options>
     <quit>Exit to Main Menu</quit>
 
-    <shareSuccessMessage>Your world has been copied to the Community site.  Thank you for sharing.</shareSuccessMessage>
+    <shareSuccessMessage>Your world has been shared to KoduGameLab and Socl.   Go to those websites or "My Worlds" under Community to see your shared world.</shareSuccessMessage>
     <noCommunityMessage>The Community site is not available at the moment.  Please try again later.</noCommunityMessage>
     <noSharingMessage>Sharing is not available at the moment.</noSharingMessage>
     <oldBuildMessage>A new build of Kodu is available.  Please upgrade before accessing the Community site.</oldBuildMessage>
     <newBuildMessage>A new build of Kodu is available.  Please exit and update to the current version.</newBuildMessage>
 
-    <signedInMessage>You are signed in as: </signedInMessage>
-    <signedOutMessage>You aren’t signed in.  Do you want to sign in before uploading?</signedOutMessage>
+    <signedInMessage>Sharing will post to KoduGameLab and Socl.  You are signed in as: </signedInMessage>
+    <signedOutMessage>Sharing will post to KoduGameLab and Socl.  You aren’t signed in. Do you want to sign in?</signedOutMessage>
     
   </miniHub>
 
@@ -308,6 +314,8 @@
     <thumbsDown>Unlike &lt;BrokenHeartIcon&gt;</thumbsDown>
     <reportAbuse>Report&lt;ReportAbuseIcon&gt;</reportAbuse>
     <unReportAbuse>Unflag &lt;ReportAbuseGreyIcon&gt;</unReportAbuse>
+    <viewOnSocl> View on Socl </viewOnSocl>
+    <viewOnKoduGameLab> View on KoduGameLab </viewOnKoduGameLab>
 
     <tag>Tag</tag>
     <puzzle>Puzzle</puzzle>
@@ -791,6 +799,9 @@
     <castle>
       <alias>castle</alias>
     </castle>
+    <clam>
+      <alias>clam</alias>
+    </clam>
     <cloud>
       <alias>cloud</alias>
     </cloud>
@@ -806,6 +817,9 @@
     <factory>
       <alias>factory</alias>
     </factory>
+    <fan>
+      <alias>fan</alias>
+    </fan>
     <fastbot>
       <alias>fastbot</alias>
       <alias>cycle</alias>
@@ -822,22 +836,37 @@
     <iceBerg>
       <alias>iceBerg</alias>
     </iceBerg>
+    <inkjet>
+      <alias>ink</alias>
+      <alias>inkjet</alias>
+    </inkjet>
     <jet>
       <alias>jet</alias>
     </jet>
     <light>
       <alias>light</alias>
     </light>
+    <lilypad>
+      <alias>lilypad</alias>
+    </lilypad>
     <mine>
       <alias>mine</alias>
     </mine>
     <missile>
       <alias>ammo</alias>
+      <alias>missile</alias>
     </missile>
+    <octopus>
+      <alias>octo</alias>
+      <alias>octopus</alias>
+    </octopus>
     <pad>
       <alias>pad</alias>
       <alias>pushpad</alias>
     </pad>
+    <pipe>
+      <alias>pipe</alias>
+    </pipe>
     <puck>
       <alias>puck</alias>
     </puck>
@@ -866,9 +895,15 @@
     <saucer>
       <alias>saucer</alias>
     </saucer>
+    <seagrass>
+      <alias>seagrass</alias>
+    </seagrass>
     <star>
       <alias>star</alias>
     </star>
+    <starfish>
+      <alias>starfish</alias>
+    </starfish>
     <stick>
       <alias>stick</alias>
       <alias>stickboy</alias>
