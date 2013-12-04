@@ -1,382 +1,382 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 
-  <foo>The foo string</foo>
+  <foo>Foo strengen</foo>
 
   <actorNames>
-    <balloon>Balloon</balloon>
-    <bigYucca1>Tree</bigYucca1>
-    <bigYucca2>Tree</bigYucca2>
+    <balloon>Ballong</balloon>
+    <bigYucca1>Tre</bigYucca1>
+    <bigYucca2>Tre</bigYucca2>
     <boku>Kodu</boku>
-    <bullet>Ammo</bullet>
-    <cloud>Cloud</cloud>
-    <castle>Castle</castle>
-    <coin>Coin</coin>
-    <cycle>Cycle</cycle>
+    <bullet>Ammunisjon</bullet>
+    <cloud>Skyen</cloud>
+    <castle>Slott</castle>
+    <coin>Mynt</coin>
+    <cycle>Sykkel</cycle>
     <soccerBall>Ball</soccerBall>
-    <daisy>Daisy</daisy>
-    <drum>Drum</drum>
-    <factory>Factory</factory>
-    <floatBot>Ship</floatBot>
-    <flower>Flower</flower>
-    <flyFish>Flyfish</flyFish>
-    <fruit>Apple</fruit>
-    <heart>Heart</heart>
-    <hut>Hut</hut>
-    <iceBerg>Iceberg</iceBerg>
+    <daisy>Tusenfryd</daisy>
+    <drum>Tromme</drum>
+    <factory>Fabrikk</factory>
+    <floatBot>Skip</floatBot>
+    <flower>Blomst</flower>
+    <flyFish>Flyvefisk</flyFish>
+    <fruit>Eple</fruit>
+    <heart>Hjerte</heart>
+    <hut>Hytte</hut>
+    <iceBerg>Isfjell</iceBerg>
     <jet>Jet</jet>
-    <light>Light</light>
+    <light>Lys</light>
     <mine>Mine</mine>
-    <missile>Missile</missile>
-    <pipe>Pipe</pipe>
+    <missile>Rakett</missile>
+    <pipe>Rør</pipe>
     <popsy>Popsy</popsy>
     <puck>Puck</puck>
-    <pushPad>Push Pad</pushPad>
-    <rock>Rock</rock>
-    <rockLowValue>Igneous</rockLowValue>
-    <rockHighValue>Sedimentary</rockHighValue>
-    <rockLowValueUnknown>Unknown (Igneous)</rockLowValueUnknown>
-    <rockHighValueUnknown>Unknown (Sedimentary)</rockHighValueUnknown>
-    <rockUnknown>Unknown Rock</rockUnknown>
-    <saucer>Saucer</saucer>
+    <pushPad>Trykknapp</pushPad>
+    <rock>Stein</rock>
+    <rockLowValue>Vulkansk</rockLowValue>
+    <rockHighValue>Sedimentær</rockHighValue>
+    <rockLowValueUnknown>Ukjent (vulkansk)</rockLowValueUnknown>
+    <rockHighValueUnknown>Ukjent (sedimentær)</rockHighValueUnknown>
+    <rockUnknown>Ukjent Stein</rockUnknown>
+    <saucer>Tallerken</saucer>
     <sputnik>Sputnik</sputnik>
-    <star>Star</star>
-    <stick>Stick</stick>
-    <sub>Sub</sub>
-    <swimFish>Fish</swimFish>
-    <turtle>Turtle</turtle>
-    <terraCannon>Cannon</terraCannon>
-    <wayPoint>Path</wayPoint>
+    <star>Stjerne</star>
+    <stick>Pinne</stick>
+    <sub>Ubåt</sub>
+    <swimFish>Fisk</swimFish>
+    <turtle>Skilpadde</turtle>
+    <terraCannon>Kanon</terraCannon>
+    <wayPoint>Bane</wayPoint>
     <windBlimp>Blimp</windBlimp>
-    <wisp>Wisp</wisp>
-    <pipe>Pipe</pipe>
-    <pipestraight>Pipe Straight</pipestraight>
-    <pipecross>Cross Pipe</pipecross>
-    <pipecorner>CornerPipe</pipecorner>
-    <yucca1>Tree</yucca1>
-    <yucca2>Tree</yucca2>
-    <yucca3>Tree</yucca3>
-    <pathGeneric>plain</pathGeneric>
-    <pathRoad>road</pathRoad>
-    <pathWall>wall</pathWall>
+    <wisp>Visp</wisp>
+    <pipe>Rør</pipe>
+    <pipestraight>Rør rett</pipestraight>
+    <pipecross>Kryssrør</pipecross>
+    <pipecorner>Hjørnerør</pipecorner>
+    <yucca1>Tre</yucca1>
+    <yucca2>Tre</yucca2>
+    <yucca3>Tre</yucca3>
+    <pathGeneric>enkel</pathGeneric>
+    <pathRoad>vei</pathRoad>
+    <pathWall>vegg</pathWall>
     <pathVeggie>flora</pathVeggie>
     <rover>Rover</rover>
-    <clam>Clam</clam>
-    <lilypad>Lily Pad</lilypad>
-    <seagrass>Sea Grass</seagrass>
-    <octopus>Octopus</octopus>
-    <starfish>Starfish</starfish>
-    <fan>Fan</fan>
-    <inkjet>Ink Cloud</inkjet>
+    <clam>Musling</clam>
+    <lilypad>Liljeblad</lilypad>
+    <seagrass>Sjøgress</seagrass>
+    <octopus>Blekksprut</octopus>
+    <starfish>Sjøstjerne</starfish>
+    <fan>Vifte</fan>
+    <inkjet>Blekksky</inkjet>
   </actorNames>
 
   <colorNames>
-    <white>White</white>
-    <black>Black</black>
-    <grey>Grey</grey>
-    <red>Red</red>
-    <green>Green</green>
-    <blue>Blue</blue>
-    <orange>Orange</orange>
-    <yellow>Yellow</yellow>
-    <purple>Purple</purple>
-    <pink>Pink</pink>
+    <white>Hvit</white>
+    <black>Svart</black>
+    <grey>Grå</grey>
+    <red>Rød</red>
+    <green>Grønn</green>
+    <blue>Blå</blue>
+    <orange>Oransje</orange>
+    <yellow>Gul</yellow>
+    <purple>Lilla</purple>
+    <pink>Rosa</pink>
     <brown>Brown</brown>
   </colorNames>
 
   <tutorial>
-    <continue>Continue</continue>
-    <back>Back</back>
-    <exitTutorial>Exit Tutorial</exitTutorial>
+    <continue>Fortsett</continue>
+    <back>Tilbake</back>
+    <exitTutorial>Avslutt opplæringen</exitTutorial>
   </tutorial>
 
   <mainMenu>
-    <mainMenu></mainMenu>
-    <resume>RESUME</resume>
-    <new>NEW WORLD</new>
-    <play>LOAD WORLD</play>
-    <import>IMPORT FROM DESKTOP</import>
-    <importWorldsCommitButtonText>Load World(s)</importWorldsCommitButtonText>
-    <learning>LEARNING</learning>
-    <community>COMMUNITY</community>
-    <share>SHARE</share>
-    <options>OPTIONS</options>
-    <help>HELP</help>
-    <exit>QUIT KODU</exit>
-    <storageWarn>Please reinsert the Memory Unit.  Press A when ready to continue.</storageWarn>
-    <storageAction> Continue</storageAction>
+    <mainMenu/>
+    <resume>FORTSETT</resume>
+    <new>NY VERDEN</new>
+    <play>LAST VERDEN</play>
+    <import>IMPORTER FRA SKRIVEBORD</import>
+    <importWorldsCommitButtonText>Last verden(er)</importWorldsCommitButtonText>
+    <learning>LÆRING</learning>
+    <community>SAMFUNN</community>
+    <share>DELE</share>
+    <options>ALTERNATIVER</options>
+    <help>HJELP</help>
+    <exit>AVSLUTT KODU</exit>
+    <storageWarn>Vennligst sette minneenheten.  Trykk A når du er klar til å fortsette.</storageWarn>
+    <storageAction>Fortsett</storageAction>
     <storageFailed>
-      There has been a failure in the underlying memory storage.
-      No data has been lost.
-      Please restart Kodu.
-    </storageFailed>
-    <storageFailedAction>Exit Kodu</storageFailedAction>
-    <corruptStorageMessage>The storage device you have chosen appears to be either broken or corrupt.  Please choose another.</corruptStorageMessage>
-    <userChoseNoStorageMessage>Kodu requires a storage device to run.  Please choose one.</userChoseNoStorageMessage>
-    <prevSessionCrashedMessage>It looks like Kodu crashed.  Would you like to try and recover your world?</prevSessionCrashedMessage>
-    <webSignOutMessage0>You are currently signed in as </webSignOutMessage0>
-    <webSignOutMessage1>.  Would you like to sign out?</webSignOutMessage1>
-    <newWebSite>Hey!  We have a new web site where you can share your worlds.  Click here to check it out.</newWebSite>
-    <continueToMain>Click anywhere else to continue to the Main Menu.</continueToMain>
-    <more>more!</more>
-    <less>less</less>
-    <news>NEWS</news>
-    <readMoreHere>Read more here!</readMoreHere>
-    <paused>Kodu paused.  Restore to full width to resume.</paused>
+Det oppstod en feil i underliggende minnelagring.
+Ingen data er mistet.
+Start Kodu på nytt.
+</storageFailed>
+    <storageFailedAction>Avslutt Kodu</storageFailedAction>
+    <corruptStorageMessage>Lagringsenheten du har valgt er enten ødelagt eller skadet.  Velg et annet.</corruptStorageMessage>
+    <userChoseNoStorageMessage>Kodu krever en lagringsenhet for å kjøre.  Velg en.</userChoseNoStorageMessage>
+    <prevSessionCrashedMessage>Det ser ut som Kodu krasjet.  Ønsker du å prøve og gjenopprette din verden?</prevSessionCrashedMessage>
+    <webSignOutMessage0>Du er logget på som</webSignOutMessage0>
+    <webSignOutMessage1>.  Vil du logge ut?</webSignOutMessage1>
+    <newWebSite>Hei!  Vi har et nytt webområde der du kan dele dine verdener.  Klikk her for å sjekke det ut.</newWebSite>
+    <continueToMain>Klikk hvor som helst for å fortsette til hovedmenyen.</continueToMain>
+    <more>mer!</more>
+    <less>mindre</less>
+    <news>NYHETER</news>
+    <readMoreHere>Les mer her!</readMoreHere>
+    <paused>Kodu satt på pause.  Gjenopprette til full bredde for å fortsette.</paused>
   </mainMenu>
 
   <programming>
-    <page>Page</page>
-    <defaultSayString></defaultSayString>
-    <back>Back</back>
-    <save>Save</save>
-    <fullScreen>Full Screen</fullScreen>
-    <thoughtBalloonSequential>Thought Balloon, pick line sequentially</thoughtBalloonSequential>
-    <thoughtBalloonRandom>Thought Balloon, pick line randomly</thoughtBalloonRandom>
+    <page>Side</page>
+    <defaultSayString/>
+    <back>Tilbake</back>
+    <save>Lagre</save>
+    <fullScreen>Full skjerm</fullScreen>
+    <thoughtBalloonSequential>Tenkeballong, velg linjen sekvensielt</thoughtBalloonSequential>
+    <thoughtBalloonRandom>Tenkeballong, velg linjen tilfeldig</thoughtBalloonRandom>
 
     <triggerAtBeginning>Match as soon as I hear.</triggerAtBeginning>
-    <triggerAtEnd>Match after I've heard.</triggerAtEnd>
+    <triggerAtEnd>Treff etter at jeg har hørt.</triggerAtEnd>
     
-    <titleXbox>Programming</titleXbox>
-    <sayStringPromptXbox>Enter Text</sayStringPromptXbox>
+    <titleXbox>Programmering</titleXbox>
+    <sayStringPromptXbox>Skrive inn tekst</sayStringPromptXbox>
 
-    <when>WHEN</when>
-    <do>DO</do>
+    <when>NÅR</when>
+    <do>GJØRE</do>
 
-    <help>Help</help>
-    <cutTile>Cut Tile</cutTile>
-    <copyTile>Copy Tile</copyTile>
-    <pasteTile>Paste Tile</pasteTile>
-    <cutRow>Cut Row</cutRow>
-    <copyRow>Copy Row</copyRow>
-    <pasteRow>Paste Row</pasteRow>
-    <cutPage>Cut Page</cutPage>
-    <copyPage>Copy Page</copyPage>
-    <pastePage>Paste Page</pastePage>
+    <help>Hjelp</help>
+    <cutTile>Fjern flis</cutTile>
+    <copyTile>Kopier flis</copyTile>
+    <pasteTile>Lim inn flis</pasteTile>
+    <cutRow>Fjern rad</cutRow>
+    <copyRow>Kopier rad</copyRow>
+    <pasteRow>Lim inn rad</pasteRow>
+    <cutPage>Fjern side</cutPage>
+    <copyPage>Kopier side</copyPage>
+    <pastePage>Lim inn side</pastePage>
   </programming>
 
   <miniHub>
-    <minihub>Home Menu</minihub>
-    <emptyLevel>New world</emptyLevel>
-    <unlock>Unlock full game</unlock>
-    <reset>Play world</reset>
-    <edit>Edit world</edit>
-    <save>Save my world</save>
-    <load>Load world</load>
-    <sharing>Share with friends</sharing>
-    <publish>Share with community</publish>
-    <print>Print kode for level</print>
-    <options>Options</options>
-    <quit>Exit to Main Menu</quit>
+    <minihub>Hjemmemenyen</minihub>
+    <emptyLevel>Ny verden</emptyLevel>
+    <unlock>Lås opp komplett spillet</unlock>
+    <reset>Spille verden</reset>
+    <edit>Redigere verden</edit>
+    <save>Lagre min verden</save>
+    <load>Last verden</load>
+    <sharing>Dele med venner</sharing>
+    <publish>Dele med samfunnet</publish>
+    <print>Skriv ut kode for nivå</print>
+    <options>Alternativer</options>
+    <quit>Gå til hovedmenyen</quit>
 
-    <shareSuccessMessage>Your world has been shared to KoduGameLab and Socl.   Go to those websites or "My Worlds" under Community to see your shared world.</shareSuccessMessage>
-    <noCommunityMessage>The Community site is not available at the moment.  Please try again later.</noCommunityMessage>
-    <noSharingMessage>Sharing is not available at the moment.</noSharingMessage>
-    <oldBuildMessage>A new build of Kodu is available.  Please upgrade before accessing the Community site.</oldBuildMessage>
-    <newBuildMessage>A new build of Kodu is available.  Please exit and update to the current version.</newBuildMessage>
+    <shareSuccessMessage>Verden er delt med KoduGameLab og Socl.   Gå til de nettstedene eller "Mine Verdener" under Samfunn å se delte verden.</shareSuccessMessage>
+    <noCommunityMessage>Samfunnets side er ikke tilgjengelig for øyeblikket.  Prøv igjen senere.</noCommunityMessage>
+    <noSharingMessage>Deling er ikke tilgjengelig for øyeblikket.</noSharingMessage>
+    <oldBuildMessage>Et nytt bygg av Kodu er tilgjengelig.  Oppgrader før tilgang til Samfunnets side.</oldBuildMessage>
+    <newBuildMessage>Et nytt bygg av Kodu er tilgjengelig.  Avslutt og oppdatere til gjeldende versjon.</newBuildMessage>
 
-    <signedInMessage>Sharing will post to KoduGameLab and Socl.  You are signed in as: </signedInMessage>
-    <signedOutMessage>Sharing will post to KoduGameLab and Socl.  You aren’t signed in. Do you want to sign in?</signedOutMessage>
+    <signedInMessage>Deling sendes tilKoduGameLab og Socl.  Du er pålogget som:</signedInMessage>
+    <signedOutMessage>Deling sendes til KoduGameLab og Socl.  Du er ikke logget på. Vil du logge på?</signedOutMessage>
     
   </miniHub>
 
   <toolBar>
-    <home>Home Menu</home>
-    <runGame>Play Game</runGame>
-    <cameraMove>Position and Rotate Camera</cameraMove>
-    <objectEdit>Add, Edit and Program Object</objectEdit>
-    <paths>Add and Edit Paths</paths>
-    <terrainPaint>Paint Terrain Material</terrainPaint>
-    <terrainRaiseLower>Raise and Lower Terrain</terrainRaiseLower>
-    <terrainSmoothLevel>Smooth and Level Terrain</terrainSmoothLevel>
-    <terrainSpikeyHilly>Roughen Terrain</terrainSpikeyHilly>
-    <waterRaiseLower>Add, Raise or Lower Water</waterRaiseLower>
-    <deleteObjects>Delete Object</deleteObjects>
-    <worldTweak>Change World Settings</worldTweak>
+    <home>Hjemmemenyen</home>
+    <runGame>Spille spill</runGame>
+    <cameraMove>Posisjoner og rotere kameraet</cameraMove>
+    <objectEdit>Legge til, redigere og programmer objekt</objectEdit>
+    <paths>Legge til og redigere baner</paths>
+    <terrainPaint>Mal terrengmateriale</terrainPaint>
+    <terrainRaiseLower>Hev og senk terreng</terrainRaiseLower>
+    <terrainSmoothLevel>Glatt og jevn ut terreng</terrainSmoothLevel>
+    <terrainSpikeyHilly>Gjør terreng ujevnt</terrainSpikeyHilly>
+    <waterRaiseLower>Legge til, øke eller redusere vann</waterRaiseLower>
+    <deleteObjects>Slett objekt</deleteObjects>
+    <worldTweak>Endre instillinger for verden</worldTweak>
   </toolBar>
 
   <mouseEdit>
-    <addObject>Add Object</addObject>
-    <worldTweak>Change World Settings</worldTweak>
-    <paste>Paste</paste>
-    <empty>empty</empty>
+    <addObject>Legg til objekt</addObject>
+    <worldTweak>Endre instillinger for verden</worldTweak>
+    <paste>Lim inn</paste>
+    <empty>tøm</empty>
 
-    <program>Program</program>
-    <objectTweak>Change Settings</objectTweak>
-    <cut>Cut</cut>
-    <copy>Copy</copy>
-    <size>Change Size</size>
-    <rotate>Rotate</rotate>
-    <height>Change Height</height>
+    <program>Programmer</program>
+    <objectTweak>Endre innstillinger</objectTweak>
+    <cut>Klipp</cut>
+    <copy>Kopier</copy>
+    <size>Endre størrelse</size>
+    <rotate>Rotere</rotate>
+    <height>Endre høyde</height>
 
-    <sizeValue>Size</sizeValue>
-    <rotationValue>Rotation</rotationValue>
-    <heightValue>Height</heightValue>
+    <sizeValue>Størrelse</sizeValue>
+    <rotationValue>Rotasjon</rotationValue>
+    <heightValue>Høyde</heightValue>
 
-    <addNodePlain>Add Plain Path</addNodePlain>
-    <addNodeRoad>Add Road</addNodeRoad>
-    <addNodeWall>Add Wall</addNodeWall>
-    <addNodeFlora>Add Flora</addNodeFlora>
+    <addNodePlain>Legg til vanlig bane</addNodePlain>
+    <addNodeRoad>Legge til vei</addNodeRoad>
+    <addNodeWall>Legge til vegg</addNodeWall>
+    <addNodeFlora>Legg til Flora</addNodeFlora>
 
-    <addMore>Add More Nodes</addMore>
-    <type>Change Type</type>
-    <delete>Delete</delete>
-    <directions>Change Direction</directions>
-    <split>Split</split>
+    <addMore>Legg til flere noder</addMore>
+    <type>Endre Type</type>
+    <delete>Slette</delete>
+    <directions>Endre retning</directions>
+    <split>Splitt</split>
 
   </mouseEdit>
 
   <shareHub>
     <appName>Kodu Game Lab</appName>
     <appPrefix>Kodu</appPrefix>
-    <startSharing>ENTER SHARING ROOM</startSharing>
-    <withYourHomies>(Invite friends below first)</withYourHomies>
-    <cmdInvite>INVITE</cmdInvite>
-    <cmdJoin>JOIN</cmdJoin>
+    <startSharing>GÅ INN I DELEROM</startSharing>
+    <withYourHomies>(Invitere venner nedenfor først)</withYourHomies>
+    <cmdInvite>INVITERE</cmdInvite>
+    <cmdJoin>BLI MED</cmdJoin>
     <cmdStart>START</cmdStart>
-    <statusJoined>JOINED</statusJoined>
-    <statusJoining>JOINING</statusJoining>
-    <statusJoinable>JUMP IN!</statusJoinable>
-    <statusInvited>INVITED</statusInvited>
-    <statusSharing>SHARING</statusSharing>
-    <statusOffline>offline</statusOffline>
-    <presenceSharing>Sharing</presenceSharing>
-    <presenceInvitedYou>Invited You</presenceInvitedYou>
-    <presenceAtShareHub>At Share Hub</presenceAtShareHub>
-    <presenceConnectedToYou>Connected to You</presenceConnectedToYou>
-    <messageOpeningSharingRoom>Entering sharing room, please wait...</messageOpeningSharingRoom>
-    <messageOpeningInviteGuide>Opening invite screen, please wait...</messageOpeningInviteGuide>
+    <statusJoined>BLE MED</statusJoined>
+    <statusJoining>BLIR MED</statusJoining>
+    <statusJoinable>HOPP INN!</statusJoinable>
+    <statusInvited>INVITERT</statusInvited>
+    <statusSharing>DELING</statusSharing>
+    <statusOffline>frakoblet</statusOffline>
+    <presenceSharing>Deling</presenceSharing>
+    <presenceInvitedYou>Inviterte deg</presenceInvitedYou>
+    <presenceAtShareHub>På delingshub</presenceAtShareHub>
+    <presenceConnectedToYou>Koblet til deg</presenceConnectedToYou>
+    <messageOpeningSharingRoom>Går inn i delingsrom, vennligst vent...</messageOpeningSharingRoom>
+    <messageOpeningInviteGuide>Åpner inviterer skjermen, vennligst vent...</messageOpeningInviteGuide>
 
-    <invite>Invite your friends to share with you (or join an existing session)</invite>
-    <friend>friend</friend>
-    <friends>friends</friends>
-    <invited>invited</invited>
-    <start>When you're ready, hit Start &lt;start&gt; to launch your sharing session.</start>
+    <invite>Inviter dine venner til å dele med deg (eller delta i en eksisterende økt)</invite>
+    <friend>venn</friend>
+    <friends>venner</friends>
+    <invited>invitert</invited>
+    <start>Når du er klar, trykk på Start &lt;start&gt; for å starte  din delingsøkt.</start>
   </shareHub>
 
   <loadLevelMenu>
-    <localTitle>LOCAL</localTitle>
-    <sharingTitle>SHARING</sharingTitle>
-    <communityTitle>COMMUNITY</communityTitle>
+    <localTitle>LOKAL</localTitle>
+    <sharingTitle>DELING</sharingTitle>
+    <communityTitle>SAMFUNNET</communityTitle>
 
-    <noMatch>No worlds match your search</noMatch>
-    <noLevels>No worlds were found</noLevels>
-    <searching>Searching...</searching>
-    <waitingForOthers>Waiting for others...</waitingForOthers>
-    <yourHost>Your host:</yourHost>
-    <gamerCountFmt>Sharing with {0} gamers</gamerCountFmt>
+    <noMatch>Ingen verdener samsvarer med søket</noMatch>
+    <noLevels>Ingen verdener ble funnet</noLevels>
+    <searching>Søker...</searching>
+    <waitingForOthers>Venter på andre...</waitingForOthers>
+    <yourHost>Din vert:</yourHost>
+    <gamerCountFmt>Deler med {0} spillere</gamerCountFmt>
 
-    <myWorldsTab>My Worlds</myWorldsTab>
-    <starterWorldsTab>Starter Worlds</starterWorldsTab>
-    <downloadsTab>Downloads</downloadsTab>
-    <missionsTab>Missions</missionsTab>
+    <myWorldsTab>Min verdener</myWorldsTab>
+    <starterWorldsTab>Starter verdener</starterWorldsTab>
+    <downloadsTab>Nedlastinger</downloadsTab>
+    <missionsTab>Oppdrag</missionsTab>
 
-    <deleteWorld>Delete World</deleteWorld>
-    <oldSortBy>Sort by </oldSortBy>
-    <world>World</world>
-    <oldCreator>Creator</oldCreator>
-    <date>Date</date>
-    <worldCount> World</worldCount>
-    <worldsCount> Worlds</worldsCount>
+    <deleteWorld>Slett verden</deleteWorld>
+    <oldSortBy>Sorter etter</oldSortBy>
+    <world>Verden</world>
+    <oldCreator>Skaper</oldCreator>
+    <date>Dato</date>
+    <worldCount>Verden</worldCount>
+    <worldsCount>Verdener</worldsCount>
     <separator>|</separator>
 
-    <title>TITLE</title>
+    <title>TITTEL</title>
     <tags>Tags</tags>
-    <creator>CREATOR</creator>
-    <description>DESCRIPTION</description>
-    <rating>RATING</rating>
-    <vote>VOTE</vote>
-    <share>Share</share>
-    <unshare>Unshare</unshare>
-    <editTags>Edit Tags</editTags>
-    <sendTo>Send To &gt;</sendTo>
-    <delete>Delete</delete>
-    <sortBy>Sort:</sortBy>
-    <showOnly>Show:</showOnly>
-    <authoredBy>by</authoredBy>
-    <actions>Actions</actions>
-    <playLevel>Play</playLevel>
-    <editLevel>Edit</editLevel>
-    <export>Export</export>
-    <exportDialogTitle>Where would you like to export your file?</exportDialogTitle>
-    <exportMultiDialogTitle>Where would you like to export your file (all attached levels included)?</exportMultiDialogTitle>
-    <exportPackageString>[Package]</exportPackageString>
-    <videoOut>Video Out</videoOut>
-    <download>Download</download>
-    <downloads>Downloads</downloads>
-    <attach>Attach</attach>
-    <back>Back</back>
-    <scroll>SCROLL L/R</scroll>
-    <moreLikeThis>MORE LIKE THIS</moreLikeThis>
+    <creator>SKAPER</creator>
+    <description>BESKRIVELSE</description>
+    <rating>VURDERING</rating>
+    <vote>STEMME</vote>
+    <share>Dele</share>
+    <unshare>Oppheve deling av</unshare>
+    <editTags>Redigere koder</editTags>
+    <sendTo>Send til &gt;</sendTo>
+    <delete>Slette</delete>
+    <sortBy>Sorter:</sortBy>
+    <showOnly>Vis:</showOnly>
+    <authoredBy>ved</authoredBy>
+    <actions>Handlinger</actions>
+    <playLevel>Spill</playLevel>
+    <editLevel>Rediger</editLevel>
+    <export>Eksportere</export>
+    <exportDialogTitle>Hvor vil du eksportere filen?</exportDialogTitle>
+    <exportMultiDialogTitle>Hvor vil du eksportere filen (alle tilknyttede nivåer inkludert)?</exportMultiDialogTitle>
+    <exportPackageString>[Pakke]</exportPackageString>
+    <videoOut>Video ut</videoOut>
+    <download>Last ned</download>
+    <downloads>Nedlastinger</downloads>
+    <attach>Tilknytt</attach>
+    <back>Tilbake</back>
+    <scroll>BLA L/R</scroll>
+    <moreLikeThis>MER SOM DETTE</moreLikeThis>
     <previousPage><![CDATA[< Page]]></previousPage>
     <nextPage><![CDATA[Page >]]></nextPage>
-    <thumbsUp>Like &lt;HeartIcon&gt;</thumbsUp>
-    <thumbsDown>Unlike &lt;BrokenHeartIcon&gt;</thumbsDown>
-    <reportAbuse>Report&lt;ReportAbuseIcon&gt;</reportAbuse>
-    <unReportAbuse>Unflag &lt;ReportAbuseGreyIcon&gt;</unReportAbuse>
-    <viewOnSocl> View on Socl </viewOnSocl>
-    <viewOnKoduGameLab> View on KoduGameLab </viewOnKoduGameLab>
+    <thumbsUp>Som &lt;HeartIcon&gt;</thumbsUp>
+    <thumbsDown>I motsetning til &lt;BrokenHeartIcon&gt;</thumbsDown>
+    <reportAbuse>Rapport &lt;ReportAbuseIcon&gt;</reportAbuse>
+    <unReportAbuse>Avrapporter &lt;ReportAbuseGreyIcon&gt;</unReportAbuse>
+    <viewOnSocl>Se på Socl</viewOnSocl>
+    <viewOnKoduGameLab>Se på KoduGameLab</viewOnKoduGameLab>
 
     <tag>Tag</tag>
-    <puzzle>Puzzle</puzzle>
-    <adventure>Adventure</adventure>
-    <other>Other</other>
+    <puzzle>Puslespill</puzzle>
+    <adventure>Eventyr</adventure>
+    <other>Andre</other>
 
-    <showSharing>Friends</showSharing>
-    <showMyWorlds>My Worlds</showMyWorlds>
-    <showDownloads>Downloads</showDownloads>
-    <showLessons>Lessons</showLessons>
-    <showSamples>Samples</showSamples>
-    <showStarterWorlds>Starters</showStarterWorlds>
-    <showAll>All</showAll>
+    <showSharing>Venner</showSharing>
+    <showMyWorlds>Min verdener</showMyWorlds>
+    <showDownloads>Nedlastinger</showDownloads>
+    <showLessons>Leksjoner</showLessons>
+    <showSamples>Prøver</showSamples>
+    <showStarterWorlds>Inngangsnivå</showStarterWorlds>
+    <showAll>Alle</showAll>
 
-    <sortDate>Date</sortDate>
-    <sortCreator>Creator</sortCreator>
-    <sortTitle>Title</sortTitle>
-    <sortRating>Rating</sortRating>
+    <sortDate>Dato</sortDate>
+    <sortCreator>Skaper</sortCreator>
+    <sortTitle>Tittel</sortTitle>
+    <sortRating>Vurdering</sortRating>
 
-    <sharingCloseSessionConfirmMessage>Close sharing room? All users will be booted.</sharingCloseSessionConfirmMessage>
-    <sharingLeaveSessionConfirmMessage>Leave sharing room? Any pending downloads will be canceled.</sharingLeaveSessionConfirmMessage>
-    <sharingSessionEndedMessageFmt>Sharing room closed. {0}.</sharingSessionEndedMessageFmt>
+    <sharingCloseSessionConfirmMessage>Lukk delerommet? Alle brukere vil bli kastet ut.</sharingCloseSessionConfirmMessage>
+    <sharingLeaveSessionConfirmMessage>Forlat delerommet? Ventende nedlastinger vil bli avbrutt.</sharingLeaveSessionConfirmMessage>
+    <sharingSessionEndedMessageFmt>Delerom stengt. {0}.</sharingSessionEndedMessageFmt>
 
-    <loadingLevelMessage>Loading World, Please Wait...</loadingLevelMessage>
-    <deletingLevelMessage>Deleting World, Please Wait...</deletingLevelMessage>
-    <exportingLevelMessage>Exporting World, Please Wait...</exportingLevelMessage>
+    <loadingLevelMessage>Laster verden, vent litt...</loadingLevelMessage>
+    <deletingLevelMessage>Sletter verden, vent litt...</deletingLevelMessage>
+    <exportingLevelMessage>Eksporterer verden, vent litt...</exportingLevelMessage>
 
-    <levelNotFirstMessage>This level has other levels linking to it.  Would you like to load the first level in the chain?</levelNotFirstMessage>
-    <levelLinksBrokenMessage>This level is part of a chain that contains some broken links - some levels may not link properly.</levelLinksBrokenMessage>
-    <levelChainTooLongMessage>This level is already part of a linked level chain that is too long.  You cannot link further without first removing some levels.</levelChainTooLongMessage>
-    <levelChainHasCycleMessage>You cannot form circular level links.  Please link to a level not already in this chain.</levelChainHasCycleMessage>
-    <targetAlreadyLinkedMessage>This level is already linked to.  If you proceed, that previous link will be removed.</targetAlreadyLinkedMessage>
-    <preserveLinksMessage>New Name or Version detected.
-      Do you want to keep the links to other levels?
-      Selecting ‘No’ will clear all links to and from this level.</preserveLinksMessage>
-    <brokenLevelExportMessage>This level contains broken links.  Please edit the level and update or remove the links before exporting.</brokenLevelExportMessage>
-    <brokenLevelShareMessage>This level contains broken links.  Please edit the level and update or remove the links before sharing.</brokenLevelShareMessage>
-    <confirmLinkedDownloadMessage>This level had linked levels attached.  All attached levels have been downloaded.</confirmLinkedDownloadMessage>
-    <confirmLinkedShareMessage>This level has linked levels attached.  Sharing it will share all attached levels as well. Continue?</confirmLinkedShareMessage>
+    <levelNotFirstMessage>Dette nivået har andre nivåer koblet til det.  Ønsker du å laste det første nivået i kjeden?</levelNotFirstMessage>
+    <levelLinksBrokenMessage>Dette nivået er del av en kjede som inneholder noen ødelagte koblinger - noen nivåer kan ikke kobles riktig.</levelLinksBrokenMessage>
+    <levelChainTooLongMessage>Dette er allerede en del av en koblet nivå som er for langt.  Du kan ikke koble videre uten først å fjerne noen nivåer.</levelChainTooLongMessage>
+    <levelChainHasCycleMessage>Du kan ikke danne sirkulær nivå koblinger.  Vennligst link til et nivå ikke allerede i denne kjeden.</levelChainHasCycleMessage>
+    <targetAlreadyLinkedMessage>Dette nivået er allerede koblet til.  Hvis du fortsetter, fjernes den forrige lenken.</targetAlreadyLinkedMessage>
+    <preserveLinksMessage>Nytt navn eller versjonsnummer oppdaget.
+Vil du beholde koblingene til andre nivåer?
+Velger du 'Nei' fjernes alle koblinger til og fra dette nivået.</preserveLinksMessage>
+    <brokenLevelExportMessage>Dette nivået inneholder brutte koblinger.  Vennligst rediger nivået og oppdatere eller fjerne koblingene før du eksporterer.</brokenLevelExportMessage>
+    <brokenLevelShareMessage>Dette nivået inneholder brutte koblinger.  Vennligst rediger nivået og oppdatere eller fjerne koblingene før du deler.</brokenLevelShareMessage>
+    <confirmLinkedDownloadMessage>Dette nivået hadde knyttet nivåer til seg.  Alle tilknyttede nivåer er lastet.</confirmLinkedDownloadMessage>
+    <confirmLinkedShareMessage>Dette nivået har knyttet nivåer til seg.  Deling av den deler alle tilknyttede nivåer også. Vil du fortsette?</confirmLinkedShareMessage>
     
-    <sendToAll>Send to Everyone</sendToAll>
+    <sendToAll>Sende til alle</sendToAll>
 
-    <updateAvailableMessageFmt>A Kodu Game Lab update is available! To share with {0}, you must exit and re-download Kodu.</updateAvailableMessageFmt>
+    <updateAvailableMessageFmt>Det finnes en Kodu Game Lab oppdatering! For å dele  med {0}, må du avslutte og last ned Kodu på nytt.</updateAvailableMessageFmt>
   </loadLevelMenu>
 
   <inGame>
-    <saveRequiredBeforeLink>This level contains un-saved changes.  Save now and continue?</saveRequiredBeforeLink>
-    <nextLevelNotFound>A "Next Level" tile was executed, but the next level property for this world is either missing or invalid.  Please update the link or try re-downloading the level.</nextLevelNotFound>
-    <previousLevelNotFound>A "Previous Level" tile was executed, but this level is not linked to from another level (or that link is invalid).  Please update the link or try re-downloading the level.</previousLevelNotFound>  
+    <saveRequiredBeforeLink>Dette nivået inneholder ulagrede endringer.  Lagre nå og fortsette?</saveRequiredBeforeLink>
+    <nextLevelNotFound>En "Neste nivå" flis ble utført, men egenskapen for neste nivå for denne verden enten mangler eller er ugyldig.  Oppdater koblingen eller prøve å laste ned  nivået på nytt.</nextLevelNotFound>
+    <previousLevelNotFound>En "Tidligere nivå" flis ble utført, men dette er ikke koblet til fra et annet nivå (eller at koblingen er ugyldig).  Oppdater koblingen eller prøv å last ned nivået på nytt.</previousLevelNotFound>  
   </inGame>
 
   <inGamePickLevelMenu>
-    <title>Choose World</title>
-    <attach>Attach</attach>
+    <title>Velg verden</title>
+    <attach>Tilknytt</attach>
   </inGamePickLevelMenu>
 
   <networkSessionEndReason>
-    <clientSignedOut>You signed out</clientSignedOut>
-    <hostEndedSession>Host ended session</hostEndedSession>
-    <removedByHost>Host removed you</removedByHost>
-    <disconnected>Disconnected</disconnected>
+    <clientSignedOut>Du logget av</clientSignedOut>
+    <hostEndedSession>Verten avsluttet økten</hostEndedSession>
+    <removedByHost>Verten fjernet deg</removedByHost>
+    <disconnected>Frakoblet</disconnected>
   </networkSessionEndReason>
 
   <community>
