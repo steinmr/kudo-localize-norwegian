@@ -136,8 +136,8 @@
         <mode>SharingHub</mode>
       </curModes>
       <targetMode>SharingSession</targetMode>
-      <gamepadText>Press &lt;start&gt; to enter sharing session.</gamepadText>
-      <mouseText>Press &lt;enter&gt; or click on the open door to enter sharing session .</mouseText>
+      <gamepadText>Trykk &lt;start&gt; for å gå til delingsøkt.</gamepadText>
+      <mouseText>Trykk &lt;enter&gt; eller klikk den åpne døren for å gå til delingsøkt.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -145,8 +145,8 @@
         <mode>SharingHub</mode>
       </curModes>
       <targetMode>MainMenu</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to Main Menu.</gamepadText>
-      <mouseText>Press &lt;esc&gt; to return to Main Menu.</mouseText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
+      <mouseText>Trykk &lt;esc&gt; for å gå tilbake til hovedmenyen.</mouseText>
     </Crumb>
 
     <!--  From SharingSession -->
@@ -155,8 +155,8 @@
         <mode>SharingSession</mode>
       </curModes>
       <targetMode>SharingHub</targetMode>
-      <gamepadText>Press &lt;back&gt; to exit sharing session.</gamepadText>
-      <mouseText>Press &lt;esc&gt; to exit sharing session .</mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å avslutte delingsøkt.</gamepadText>
+      <mouseText>Trykk &lt;esc&gt; for å avslutte delingsøkt.</mouseText>
     </Crumb>
 
     <!--  From OptionsMenu  -->
@@ -165,8 +165,8 @@
         <mode>OptionsMenu</mode>
       </curModes>
       <targetMode>MainMenu</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Main Menu.</gamepadText>
-      <mouseText>Press [esc] or click off of the menu items to return to the Main Menu.</mouseText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
+      <mouseText>Trykk [esc] eller klikk utenfor menyvalgene for å gå tilbake til hovedmenyen.</mouseText>
     </Crumb>
 
     <!--  From HelpScreens  -->
@@ -175,8 +175,8 @@
         <mode>HelpScreens</mode>
       </curModes>
       <targetMode>MainMenu</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Main Menu.</gamepadText>
-      <mouseText>Press [esc] to return to the Main Menu.</mouseText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
+      <mouseText>Trykk [esc] for å gå tilbake til hovedmenyen.</mouseText>
     </Crumb>
 
     <!--  From LoadLevelMenu  -->
@@ -185,7 +185,7 @@
         <mode>LoadLevelMenu</mode>
       </curModes>
       <targetMode>Unknown</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Main Menu.</gamepadText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
       <mouseText>
         Click on green arrows to scroll, click on game tile to choose game.
         Use [leftarrow][rightarrow] to scroll, press [enter] to choose game.
