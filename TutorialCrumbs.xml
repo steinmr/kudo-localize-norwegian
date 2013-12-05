@@ -48,8 +48,8 @@
 
       </curModes>
       <targetMode>HomeMenu</targetMode>
-      <gamepadText>Press &lt;start&gt; to go to the Home Menu.</gamepadText>
-      <mouseText>Press [esc] to go to the Home Menu.</mouseText>
+      <gamepadText>Trykk &lt;start&gt; for å gå til Hjem-menyen.</gamepadText>
+      <mouseText>Trykk [esc] for å gå til Hjem-menyen.</mouseText>
     </Crumb>
 
 
@@ -60,9 +60,9 @@
         <mode>InGame</mode>
       </curModes>
       <targetMode>MouseCameraMove</targetMode>
-      <gamepadText>Press &lt;back&gt; to go to Edit mode.</gamepadText>
-      <mouseText>Press [esc] to go to Edit mode.</mouseText>
-      <touchText>Tap [here] to go to Edit mode.</touchText>
+      <gamepadText>Trykk &lt;back&gt; for å gå til Redigeringsmodus.</gamepadText>
+      <mouseText>Trykk [esc] for å gå til Redigeringsmodus.</mouseText>
+      <touchText>Trykk [her] for å gå til Redigeringsmodus.</touchText>
     </Crumb>
 
     <Crumb>
@@ -70,9 +70,9 @@
         <mode>InGame</mode>
       </curModes>
       <targetMode>ToolMenuEditObject</targetMode>
-      <gamepadText>Press &lt;back&gt; to go to Edit mode.</gamepadText>
-      <mouseText>Press [esc] to go to Edit mode.</mouseText>
-      <touchText>Tap [here] to go to Edit mode.</touchText>    
+      <gamepadText>Trykk &lt;back&gt; for å gå til Redigeringsmodus.</gamepadText>
+      <mouseText>Trykk [esc] for å gå til Redigeringsmodus.</mouseText>
+      <touchText>Trykk [here] for å gå til Redigeringsmodus.</touchText>    
     </Crumb>
 
     <!--  From MainMenu  -->
@@ -81,8 +81,8 @@
         <mode>MainMenu</mode>
       </curModes>
       <targetMode>InGame</targetMode>
-      <gamepadText>Select RESUME and press &lt;a&gt;.</gamepadText>
-      <mouseText>Click on RESUME.</mouseText>
+      <gamepadText>Velg FORTSETT og trykk &lt;a&gt;.</gamepadText>
+      <mouseText>Klikk på FORTSETT.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -90,8 +90,8 @@
         <mode>MainMenu</mode>
       </curModes>
       <targetMode>LoadLevelMenu</targetMode>
-      <gamepadText>Select LOAD WORLD and press &lt;a&gt;.</gamepadText>
-      <mouseText>Click on LOAD WORLD.</mouseText>
+      <gamepadText>Velg LAST VERDEN og trykk &lt;a&gt;.</gamepadText>
+      <mouseText>Klikk på LAST VERDEN.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -99,8 +99,8 @@
         <mode>MainMenu</mode>
       </curModes>
       <targetMode>CommunityMenu</targetMode>
-      <gamepadText>Select COMMUNITY and press &lt;a&gt;.</gamepadText>
-      <mouseText>Click on COMMUNITY.</mouseText>
+      <gamepadText>Velg SAMFUNN og trykk &lt;a&gt;.</gamepadText>
+      <mouseText>Klikk på SAMFUNN.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -108,8 +108,8 @@
         <mode>MainMenu</mode>
       </curModes>
       <targetMode>OptionsMenu</targetMode>
-      <gamepadText>Select OPTIONS and press &lt;a&gt;.</gamepadText>
-      <mouseText>Click on OPTIONS.</mouseText>
+      <gamepadText>Velg ALTERNATIVER og trykk &lt;a&gt;.</gamepadText>
+      <mouseText>Klikk på ALTERNATIVER.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -117,8 +117,8 @@
         <mode>MainMenu</mode>
       </curModes>
       <targetMode>HelpScreens</targetMode>
-      <gamepadText>Select HELP and press &lt;a&gt;.</gamepadText>
-      <mouseText>Click on HELP.</mouseText>
+      <gamepadText>Velg HJELP og trykk &lt;a&gt;.</gamepadText>
+      <mouseText>Klikk på HJELP.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -126,8 +126,8 @@
         <mode>MainMenu</mode>
       </curModes>
       <targetMode>SharingHub</targetMode>
-      <gamepadText>Select SHARE and press &lt;a&gt;.</gamepadText>
-      <mouseText>Click on SHARE.</mouseText>
+      <gamepadText>Velg DEL og trykk  &lt;a&gt;.</gamepadText>
+      <mouseText>Klikk på DEL.</mouseText>
     </Crumb>
 
     <!--  From SharingHub -->
