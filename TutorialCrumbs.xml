@@ -187,8 +187,8 @@
       <targetMode>Unknown</targetMode>
       <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
       <mouseText>
-        Click on green arrows to scroll, click on game tile to choose game.
-        Use [leftarrow][rightarrow] to scroll, press [enter] to choose game.
+        Klikk på de grønne pilene for å rulle, klikk på en spill-flis for å velge spill.
+        Bruk [leftarrow][rightarrow] for å rulle, trykk [enter] for å velge spill.
       </mouseText>
     </Crumb>
 
