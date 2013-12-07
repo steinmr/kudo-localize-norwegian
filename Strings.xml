@@ -380,96 +380,96 @@ Velger du 'Nei' fjernes alle koblinger til og fra dette nivået.</preserveLinksM
   </networkSessionEndReason>
 
   <community>
-    <newsTab>News</newsTab>
-    <page>Community :</page>
-    <pageFormat>Community : Page {0} of {1}</pageFormat>
-    <downloadWorld>Download World</downloadWorld>
-    <downloadSuccessMessage>Selected world has been copied to your Downloads area.</downloadSuccessMessage>
-    <playLevel>Play Now</playLevel>
-    <backToCommunity>Continue Browsing</backToCommunity>
+    <newsTab>Nyheter</newsTab>
+    <page>Samfunnet :</page>
+    <pageFormat>Samfunnet: Side {0} av {1}</pageFormat>
+    <downloadWorld>Laste ned Verden</downloadWorld>
+    <downloadSuccessMessage>Valgt verden ble kopiert til ditt nedlastings-område.</downloadSuccessMessage>
+    <playLevel>Spill nå</playLevel>
+    <backToCommunity>Fortsette surfing</backToCommunity>
   </community>
 
   <tools>
-    <sampleTool>Sample</sampleTool>
-    <paintMaterialTool>Change Material</paintMaterialTool>
-    <heightMapTool>Raise/Lower</heightMapTool>
-    <deleteTool>Delete Material</deleteTool>
-    <noiseTool>Rough/Smooth</noiseTool>
-    <hillTool>Hill</hillTool>
-    <minMaxTool>Level</minMaxTool>
-    <levelTool>Level</levelTool>
-    <addTool>Material</addTool>
-    <waterAdd>Water</waterAdd>
-    <roadTool>Level Path</roadTool>
-    <delObjTool>Delete Things</delObjTool>
-    <tooManyLights>Sorry, you can't add another light.  You can only have 8 lights per world.</tooManyLights>
+    <sampleTool>Eksempel</sampleTool>
+    <paintMaterialTool>Endre materiale</paintMaterialTool>
+    <heightMapTool>Heve/senke</heightMapTool>
+    <deleteTool>Slette materiale</deleteTool>
+    <noiseTool>Grov/glatt</noiseTool>
+    <hillTool>Bakke</hillTool>
+    <minMaxTool>Nivå</minMaxTool>
+    <levelTool>Nivå</levelTool>
+    <addTool>Materiale</addTool>
+    <waterAdd>Vann</waterAdd>
+    <roadTool>Jevn ut bane</roadTool>
+    <delObjTool>Slette ting</delObjTool>
+    <tooManyLights>Beklager, du ikke kan legge til et lys til.  Du kan bare ha 8 lampene per verden.</tooManyLights>
     <balloonText>
-&lt;y&gt; Program
-&lt;a&gt; Pick Up</balloonText>
+&lt;y&gt;Programmer 
+&lt;a&gt;Plukk opp</balloonText>
     <balloonTextMouse>
-&lt;rightmouse&gt; Program
-&lt;leftmouse&gt; Drag</balloonTextMouse>
+&lt;rightmouse&gt;Programmer 
+&lt;leftmouse&gt;Dra</balloonTextMouse>
     <balloonTextTouch>
-      &lt;rotate&gt; Rotate
-      &lt;pinch&gt; Scale</balloonTextTouch>
+&lt;rotate&gt;Rotere 
+&lt;pinch&gt;Skaler</balloonTextTouch>
   </tools>
 
   <editWorldParams>
-    <changeHistoryTitle>Change History</changeHistoryTitle>
-    <viewHistory>View</viewHistory>
-    <clearHistory>Delete All</clearHistory>
-    <noHistory>There is no history for this world.</noHistory>
+    <changeHistoryTitle>Endringshistorikk</changeHistoryTitle>
+    <viewHistory>Vis</viewHistory>
+    <clearHistory>Slett alle</clearHistory>
+    <noHistory>Det finnes ingen historikk for denne verden.</noHistory>
 
-    <glassWallsCheckbox>Glass Walls</glassWallsCheckbox>
-    <cameraMode>Camera Mode</cameraMode>
-    <cameraModeFixedPosition>Fixed Position</cameraModeFixedPosition>
-    <cameraModeFixedOffset>Fixed Offset</cameraModeFixedOffset>
-    <cameraModeFree>Free</cameraModeFree>
-    <startingCameraCheckbox>Starting Camera</startingCameraCheckbox>
-    <setCamera>Set Camera</setCamera>
-    <cameraSpringStrength>Camera Spring Strength</cameraSpringStrength>
-    <showCompassCheckbox>Show Compass</showCompassCheckbox>
-    <showResourceMeterCheckbox>Show Resource Meter</showResourceMeterCheckbox>
-    <enableResourceLimitingCheckbox>Enable Resource Limiting</enableResourceLimitingCheckbox>
-    <waveHeight>Wave Height</waveHeight>
-    <waterStrength>Water Strength</waterStrength>
-    <skyPictureList>Sky</skyPictureList>
-    <lightRigPictureList>Lighting</lightRigPictureList>
-    <windMin>Min Breeze</windMin>
-    <windMax>Max Breeze</windMax>
+    <glassWallsCheckbox>Glassvegger</glassWallsCheckbox>
+    <cameraMode>Kameramodus</cameraMode>
+    <cameraModeFixedPosition>Fast stilling</cameraModeFixedPosition>
+    <cameraModeFixedOffset>Fast forskyving</cameraModeFixedOffset>
+    <cameraModeFree>Gratis</cameraModeFree>
+    <startingCameraCheckbox>Starter kameraet</startingCameraCheckbox>
+    <setCamera>Angi kamera</setCamera>
+    <cameraSpringStrength>Kamerafjærstyrke</cameraSpringStrength>
+    <showCompassCheckbox>Vis kompass</showCompassCheckbox>
+    <showResourceMeterCheckbox>Vis Ressursmåling</showResourceMeterCheckbox>
+    <enableResourceLimitingCheckbox>Aktiver ressursbegrensning</enableResourceLimitingCheckbox>
+    <waveHeight>Bølgehøyde</waveHeight>
+    <waterStrength>Vannstyrke</waterStrength>
+    <skyPictureList>Himmelen</skyPictureList>
+    <lightRigPictureList>Belysning</lightRigPictureList>
+    <windMin>Min. bris</windMin>
+    <windMax>Maks. bris</windMax>
 
-    <preGame>Start Game With:</preGame>
-    <nothing>Nothing</nothing>
-    <countdown>Countdown</countdown>
-    <countdownWithDesc>Description with Countdown</countdownWithDesc>
-    <levelTitle>World Title</levelTitle>
-    <levelDesc>World Description</levelDesc>
+    <preGame>Start spill med:</preGame>
+    <nothing>Ingenting</nothing>
+    <countdown>Nedtelling</countdown>
+    <countdownWithDesc>Beskrivelse med nedtelling</countdownWithDesc>
+    <levelTitle>Verdenstittel</levelTitle>
+    <levelDesc>Verdensbeskrivelse</levelDesc>
 
-    <debugPathFollow>Debug Path Following</debugPathFollow>
-    <debugDisplayCollisions>Debug Display Collision Data</debugDisplayCollisions>
-    <debugDisplayLinesOfPerception>Debug Sight and Sound Lines</debugDisplayLinesOfPerception>
-    <foleyVolume>Effects Volume</foleyVolume>
-    <musicVolume>Music Volume</musicVolume>
+    <debugPathFollow>Feilsøke banesporing</debugPathFollow>
+    <debugDisplayCollisions>Feilsøke Vise kollisjonsdata</debugDisplayCollisions>
+    <debugDisplayLinesOfPerception>Feilsøke Syn- og lydlinjer</debugDisplayLinesOfPerception>
+    <foleyVolume>Effektvolum</foleyVolume>
+    <musicVolume>Musikkvolum</musicVolume>
 
-    <scoreVisibility>Score Visibility: </scoreVisibility>
-    <scorePersistence>Score Persistence: </scorePersistence>
-    <loudLabel>Loud Labeled</loudLabel>
-    <loud>Loud</loud>
-    <quietLabel>Quiet Labeled</quietLabel>
-    <quiet>Quiet</quiet>
-    <on>On</on>
-    <off>Off</off>
+    <scoreVisibility>Stillingssynlighet:</scoreVisibility>
+    <scorePersistence>Stillingsutholdenhet:</scorePersistence>
+    <loudLabel>Høy merket</loudLabel>
+    <loud>Høy</loud>
+    <quietLabel>Stille merket</quietLabel>
+    <quiet>Stille</quiet>
+    <on>På</on>
+    <off>Av</off>
 
-    <guiButtonVisibility>GUI Button Visibility: </guiButtonVisibility>
-    <labeledButton>Labeled</labeledButton>
-    <solidButton>No Label</solidButton>
-    <off>Off</off>
+    <guiButtonVisibility>GUI-knappens synlighet:</guiButtonVisibility>
+    <labeledButton>Merket</labeledButton>
+    <solidButton>Ikke merket</solidButton>
+    <off>Av</off>
     
-    <showVirtualController>Show Virtual Controller</showVirtualController>
+    <showVirtualController>Vis virtuelle kontrollere</showVirtualController>
 
-    <nextLevel>Next Level</nextLevel>
-    <noLevelSelected>No Level Selected</noLevelSelected>
-    <clearNextLevel>Clear</clearNextLevel>
+    <nextLevel>Neste nivå</nextLevel>
+    <noLevelSelected>Inget nivå valgt</noLevelSelected>
+    <clearNextLevel>Tøm</clearNextLevel>
   </editWorldParams>
 
   <skyGradientNames>
@@ -497,10 +497,10 @@ Velger du 'Nei' fjernes alle koblinger til og fra dette nivået.</preserveLinksM
   </skyGradientNames>
 
   <lightRigNames>
-    <day>Day</day>
-    <night>Night</night>
-    <space>Space</space>
-    <dream>Dream</dream>
+    <day>Dag</day>
+    <night>Natt</night>
+    <space>Rom</space>
+    <dream>Drøm</dream>
     <venus>Venus</venus>
     <mars>Mars</mars>
     <dark>Dark</dark>
