@@ -503,160 +503,160 @@ Velger du 'Nei' fjernes alle koblinger til og fra dette nivået.</preserveLinksM
     <dream>Drøm</dream>
     <venus>Venus</venus>
     <mars>Mars</mars>
-    <dark>Dark</dark>
-    <realdark>Really Dark</realdark>
+    <dark>Mørkt</dark>
+    <realdark>Virkelig mørkt</realdark>
   </lightRigNames>
 
   <editObjectParams>
-    <help>Help</help>
+    <help>Hjelp</help>
     <ok>OK</ok>
-    <back>Back</back>
-    <moreInfo>Press &lt;y&gt; for more information.</moreInfo>
-    <pushRange>Push Range</pushRange>
-    <pushStrength>Push Strength</pushStrength>
-    <lightrange>Light Range</lightrange>
+    <back>Tilbake</back>
+    <moreInfo>Trykk &lt;y&gt; for mer informasjon.</moreInfo>
+    <pushRange>Presserekkevidde</pushRange>
+    <pushStrength>Pressestyrke</pushStrength>
+    <lightrange>Lysrekkevidde</lightrange>
     <immobile>Immobile</immobile>
-    <invulnerable>Invulnerable</invulnerable>
-    <creatable>Creatable</creatable>
-    <maxCreated>Max Created</maxCreated>
-    <mute>Mute</mute>
-    <stayAboveWater>Stay Above Water</stayAboveWater>
-    <loudness>Loudness</loudness>
-    <hearing>Hearing</hearing>
-    <nearByDistance>Close By Range</nearByDistance>
-    <farAwayDistance>Far Away Range</farAwayDistance>
-    <showSensors>Show Sensors</showSensors>
-    <showHitPoints>Show Hit Points</showHitPoints>
-    <maxHitPoints>Max Hit Points</maxHitPoints>
-    <camouflaged>Camouflage</camouflaged>
-    <kickStrength>Kick Strength</kickStrength>
-    <kickRate>Kick Rate</kickRate>
-    <reScale>Size Scale</reScale>
-    <movementSpeedMultiplier>Forward Speed Multiplier</movementSpeedMultiplier>
-    <turningSpeedMultiplier>Turning Speed Multiplier</turningSpeedMultiplier>
-    <linearAccelerationMultiplier>Forward Acceleration Multiplier</linearAccelerationMultiplier>
-    <turningAccelerationMultiplier>Turning Acceleration Multiplier</turningAccelerationMultiplier>
-    <verticalSpeedMultiplier>Vertical Speed Multiplier</verticalSpeedMultiplier>
-    <bounciness>Bounciness</bounciness>
-    <friction>Friction</friction>
-    <memoryLifetime>Memory Lifetime</memoryLifetime>
+    <invulnerable>Usårbar</invulnerable>
+    <creatable>Skapbar</creatable>
+    <maxCreated>Maks opprettet</maxCreated>
+    <mute>Dempet</mute>
+    <stayAboveWater>Forbli over vann</stayAboveWater>
+    <loudness>Lydstyrken</loudness>
+    <hearing>Hørsel</hearing>
+    <nearByDistance>I nærheten avstand</nearByDistance>
+    <farAwayDistance>Langt unna avstand</farAwayDistance>
+    <showSensors>Vis sensorer</showSensors>
+    <showHitPoints>Vis treffpoeng</showHitPoints>
+    <maxHitPoints>Maks treffpoeng</maxHitPoints>
+    <camouflaged>Kamuflasje</camouflaged>
+    <kickStrength>Sparkstyrke</kickStrength>
+    <kickRate>Sparkfrekvens</kickRate>
+    <reScale>Størrelseskala</reScale>
+    <movementSpeedMultiplier>Foroverhastighet multiplikator</movementSpeedMultiplier>
+    <turningSpeedMultiplier>Snuhastighet multiplikator</turningSpeedMultiplier>
+    <linearAccelerationMultiplier>Foroverakselerasjon multiplikator</linearAccelerationMultiplier>
+    <turningAccelerationMultiplier>Snuakselerasjon multiplikator</turningAccelerationMultiplier>
+    <verticalSpeedMultiplier>Vertikalhastighet multiplikator</verticalSpeedMultiplier>
+    <bounciness>Sprettenhet</bounciness>
+    <friction>Friksjon</friction>
+    <memoryLifetime>Minnelevetid</memoryLifetime>
 
-    <blipDamage>Blip Damage</blipDamage>
-    <blipReloadTime>Blip Reload Time</blipReloadTime>
-    <blipSpeed>Blip Speed</blipSpeed>
-    <blipRange>Blip Range</blipRange>
-    <blipsInAir>Blips At Once</blipsInAir>
+    <blipDamage>Blipskade</blipDamage>
+    <blipReloadTime>Blip relastningstid</blipReloadTime>
+    <blipSpeed>Blip hastighet</blipSpeed>
+    <blipRange>Blip rekkevidde</blipRange>
+    <blipsInAir>Blips samtidig</blipsInAir>
 
-    <missileDamage>Missile Damage</missileDamage>
-    <missileReloadTime>Missile Reload Time</missileReloadTime>
-    <missileSpeed>Missile Speed</missileSpeed>
-    <missileRange>Missile Range</missileRange>
-    <missilesInAir>Missiles At Once</missilesInAir>
-    <missileTrails>Missile Smoke</missileTrails>
+    <missileDamage>Rakettskade</missileDamage>
+    <missileReloadTime>Rakett relastningstid</missileReloadTime>
+    <missileSpeed>Missil hastighet</missileSpeed>
+    <missileRange>Missil rekkevidde</missileRange>
+    <missilesInAir>Missiler samtidig</missilesInAir>
+    <missileTrails>Rakettrøyk</missileTrails>
 
-    <shieldEffects>Shield Effects</shieldEffects>
-    <invisible>Invisible</invisible>
-    <ignored>Ghost</ignored>
+    <shieldEffects>Skjoldeffekter</shieldEffects>
+    <invisible>Usynlig</invisible>
+    <ignored>Spøkelse</ignored>
 
-    <glowAmt>Glow Strength</glowAmt>
-    <glowLights>Glow Light Strength</glowLights>
-    <glowEmission>Glow Self Lighting</glowEmission>
-    <displayLOS>Debug Lines to Barriers</displayLOS>
-    <displayLOP>Debug Lines of Sight and Sound</displayLOP>
+    <glowAmt>Glødstyrke</glowAmt>
+    <glowLights>Glødelys styrke</glowLights>
+    <glowEmission>Glød selvbelysning</glowEmission>
+    <displayLOS>Feilsøke linjer til barrierer</displayLOS>
+    <displayLOP>Feilsøke linjer av syn og lyd</displayLOP>
 
-    <cameraFollow>Camera Follow Mode</cameraFollow>
-    <cameraFollowUserControlled>Only If User Controlled</cameraFollowUserControlled>
-    <cameraFollowAlways>Always</cameraFollowAlways>
-    <cameraFollowNever>Never</cameraFollowNever>
+    <cameraFollow>Følg etter kameramodus</cameraFollow>
+    <cameraFollowUserControlled>Kun hvis bruker er kontrollert</cameraFollowUserControlled>
+    <cameraFollowAlways>Alltid</cameraFollowAlways>
+    <cameraFollowNever>Aldri</cameraFollowNever>
 
   </editObjectParams>
 
   <optionsParams>
-    <showToolTips>Show Tool Tips</showToolTips>
-    <showHints>Show Hints</showHints>
-    <restoreDisabledHints>Restore Disabled Hints</restoreDisabledHints>
-    <modalToolMenu>Make Gamepad ToolMenu Modal</modalToolMenu>
-    <helpLevel>Help Overlay Amount</helpLevel>
-    <lowHelp>None</lowHelp>
-    <midHelp>Some</midHelp>
-    <highHelp>All</highHelp>
+    <showToolTips>Vis verktøytips</showToolTips>
+    <showHints>Vis tips</showHints>
+    <restoreDisabledHints>Gjenopprette deaktiverte tips</restoreDisabledHints>
+    <modalToolMenu>Gjør Gamepad verktøymeny sperrende</modalToolMenu>
+    <helpLevel>Hjelp overlegg beløp</helpLevel>
+    <lowHelp>Ingen</lowHelp>
+    <midHelp>Noen</midHelp>
+    <highHelp>Alle</highHelp>
     <invertYAxis>
-      Invert Stick for Bot Up/Down:
-    </invertYAxis>
+Inverter styrespak for Bot opp/ned:
+</invertYAxis>
     <invertXAxis>
-      Invert Stick for Bot Turning:
-    </invertXAxis>
+Inverter styrespak for Bot snuing:
+</invertXAxis>
     <invertCamY>
-      Invert Stick for Camera Pitch:
-    </invertCamY>
+Inverter styrespak for kameraets høydejustering:
+</invertCamY>
     <invertCamX>
-      Invert Stick for Camera Turning:
-    </invertCamX>
+Inverter styrespak for kameraesnuing:
+</invertCamX>
     <overscan>Overscan %</overscan>
-    <terrainSpeed>Terrain Edit Speed</terrainSpeed>
-    <uiVolume>UI Volume</uiVolume>
-    <foleyVolume>Effects Volume</foleyVolume>
-    <musicVolume>Music Volume</musicVolume>
-    <acceptSentLevels>Sharing: Accept Sent Worlds</acceptSentLevels>
-    <autoReshareLevels>Sharing: Auto Reshare Worlds</autoReshareLevels>
-    <autoDownloadFavoriteLevels>Sharing: Auto-Download Favorites</autoDownloadFavoriteLevels>
-    <checkForUpdates>Check for Updates at Startup</checkForUpdates>
-    <sendInstrumentation>Gather Usage Information</sendInstrumentation>
-    <viewCodeOfConduct>Code of Conduct</viewCodeOfConduct>
-    <viewPrivacyStatement>Privacy Statement</viewPrivacyStatement>
-    <viewEULA>End-User License Agreement</viewEULA>
-    <viewButtonLabel>View</viewButtonLabel>
-    <showIntroVideo>Show Video at Next Startup</showIntroVideo>
-    <persistWebLogin>Remember web site login</persistWebLogin>
-    <showTutorialDebug>Show tutorial debugging info.</showTutorialDebug>
+    <terrainSpeed>Terreng redigeringshastighet</terrainSpeed>
+    <uiVolume>UI volum</uiVolume>
+    <foleyVolume>Effekter volum</foleyVolume>
+    <musicVolume>Musikkvolum</musicVolume>
+    <acceptSentLevels>Deling: Godta sendte verdener</acceptSentLevels>
+    <autoReshareLevels>Deling: Auto Redel verdener</autoReshareLevels>
+    <autoDownloadFavoriteLevels>Deling: Automatisk nedlasting av favoritter</autoDownloadFavoriteLevels>
+    <checkForUpdates>Se etter oppdateringer ved oppstart</checkForUpdates>
+    <sendInstrumentation>Samle brukerinformasjon</sendInstrumentation>
+    <viewCodeOfConduct>Etiske retningslinjer</viewCodeOfConduct>
+    <viewPrivacyStatement>Personvernerklæringen</viewPrivacyStatement>
+    <viewEULA>Lisensavtalen for sluttbrukere</viewEULA>
+    <viewButtonLabel>Vis</viewButtonLabel>
+    <showIntroVideo>Vis video ved neste oppstart</showIntroVideo>
+    <persistWebLogin>Husk websted login</persistWebLogin>
+    <showTutorialDebug>Vis innførings feilsøkingsinfo.</showTutorialDebug>
   </optionsParams>
 
   <titleScreen>
-    <challengeMessage>New challenges have been added to your Downloads directory.</challengeMessage>
+    <challengeMessage>Nye utfordringer har blitt lagt til mappen nedlastinger.</challengeMessage>
   </titleScreen>
 
   <gameOver>
-    <edit>Edit This World</edit>
-    <browse>Home Menu</browse>
-    <restart>Restart World</restart>
-    <team>Team</team>
+    <edit>Rediger denne verden</edit>
+    <browse>Hjemmemenyen</browse>
+    <restart>Restart verden</restart>
+    <team>Lag</team>
   </gameOver>
 
   <textDialog>
-    <newNamePrompt>Enter the new world name:</newNamePrompt>
-    <saveChangesPrompt>Save changes?</saveChangesPrompt>
-    <deletePrompt>Delete this world?</deletePrompt>
-    <deleteLinkedPrompt>This world is linked to other levels.  Deleting it will break those links.  Continue?</deleteLinkedPrompt>
-    <linkedLevelExport>This world is linked to other levels.  All linked levels will be exported.</linkedLevelExport>
-    <levelExported>Level exported to : </levelExported>
-    <logonPrompt>Enter your username.  This will be used as the 'Creator' name for the levels you build.</logonPrompt>
-    <reportAbusePrompt>Do you want to report this level as offensive?</reportAbusePrompt>
-    <save>Save</save>
-    <back>Back</back>
+    <newNamePrompt>Skriv inn det nye verdens-navnet:</newNamePrompt>
+    <saveChangesPrompt>Lagre endringer?</saveChangesPrompt>
+    <deletePrompt>Slette denne verden?</deletePrompt>
+    <deleteLinkedPrompt>Denne verden er knyttet til andre nivåer. Sletting bryter disse koblingene.  Vil du fortsette?</deleteLinkedPrompt>
+    <linkedLevelExport>Denne verden er knyttet til andre nivåer.  Alle koblede nivåer eksporteres.</linkedLevelExport>
+    <levelExported>Nivå eksportert til:</levelExported>
+    <logonPrompt>Skriv inn ditt brukernavn.  Dette vil bli brukt som "Skaperen" for nivåene du bygger.</logonPrompt>
+    <reportAbusePrompt>Vil du rapportere dette nivået som støtende?</reportAbusePrompt>
+    <save>Lagre</save>
+    <back>Tilbake</back>
     <ok>OK</ok>
-    <continue>Continue</continue>
-    <accept>Accept</accept>
-    <cancel>Cancel</cancel>
-    <discard>Discard</discard>
-    <delete>Delete</delete>
-    <quitKodu>Exit Kodu</quitKodu>
-    <resume>Resume</resume>
-    <upload>Upload</upload>
-    <uploadAnonymous>Anonymous</uploadAnonymous>
-    <signIn>Sign In</signIn>
-    <signOut>Sign Out</signOut>
-    <changeUser>Change User</changeUser>
-    <yes>Yes</yes>
-    <no>No</no>
+    <continue>Fortsett</continue>
+    <accept>Godta</accept>
+    <cancel>Avbryt</cancel>
+    <discard>Forkaste</discard>
+    <delete>Slette</delete>
+    <quitKodu>Avslutt Kodu</quitKodu>
+    <resume>Fortsett</resume>
+    <upload>Last opp</upload>
+    <uploadAnonymous>Anonym</uploadAnonymous>
+    <signIn>Logg inn</signIn>
+    <signOut>Logg ut</signOut>
+    <changeUser>Endre bruker</changeUser>
+    <yes>Ja</yes>
+    <no>Nei</no>
   </textDialog>
 
   <buttonAliasStrings>
     <aButton>
       <alias>a</alias>
-      <alias>abutton</alias>
-      <alias>a button</alias>
-      <alias>buttona</alias>
-      <alias>button a</alias>
+      <alias>aknappen</alias>
+      <alias>a knapp</alias>
+      <alias>knappa</alias>
+      <alias>knapp a</alias>
     </aButton>
     <bButton>
       <alias>b</alias>
