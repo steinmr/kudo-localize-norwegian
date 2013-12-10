@@ -29,3 +29,8 @@ Dictionary (use this for commonly used words that might be translated in differe
 Kodu=Kodu
 Ship=Skip
 Community=Samfunn
+Stick=Styrespak
+Blip=Blip
+Bot=Bot
+Tutorial=Innføring
+Team=Lag
