@@ -1114,128 +1114,128 @@ Inverter styrespak for kameraesnuing:
   </buttonAliasStrings>
 
   <helpCard>
-    <back>Back</back>
-    <examples>Examples</examples>
-    <insert>Insert Example</insert>
+    <back>Tilbake</back>
+    <examples>Eksempler</examples>
+    <insert>Sette inn eksempel</insert>
     <noDescription><![CDATA[Press <a> to add a tile.]]></noDescription>
-    <noLabel>Blank</noLabel>
-    <create>Create an Example Character</create>
-    <choose>Choose</choose>
-    <noExamples>There are no examples for this object.</noExamples>
+    <noLabel>Tom</noLabel>
+    <create>Opprette en eksempel-karakter</create>
+    <choose>Velg</choose>
+    <noExamples>Det er ingen eksempler for dette objektet.</noExamples>
   </helpCard>
 
   <toolTips>
-    <insert>Insert</insert>
-    <examples>Examples</examples>
-    <change>Change</change>
-    <add>Add</add>
-    <remove>Remove</remove>
-    <group>group</group>
+    <insert>Sett inn</insert>
+    <examples>Eksempler</examples>
+    <change>Endre</change>
+    <add>Legge til</add>
+    <remove>Fjerne</remove>
+    <group>gruppe</group>
     <groupDesc><![CDATA[Press <a> for more...]]></groupDesc>
 
-    <pageHandleLabel>page handle</pageHandleLabel>
+    <pageHandleLabel>sidehåndtak</pageHandleLabel>
     <pageHandleDesc><![CDATA[Your program can have up to twelve pages.  Use the SWITCH action to change pages.]]></pageHandleDesc>
-    <rowHandleLabel>row handle</rowHandleLabel>
+    <rowHandleLabel>radhåndtak</rowHandleLabel>
     <rowHandleDesc><![CDATA[Use <lt> to cut and <rt> to paste rows.  The numbering indicates the priority of the rules.]]></rowHandleDesc>
   </toolTips>
 
   <saveLevelDialog>
-    <change>Change</change>
-    <save>Save</save>
-    <cancel>Cancel</cancel>
-    <quickSave>Save</quickSave>
-    <name>Name : </name>
-    <creator>Creator : </creator>
-    <description>Description : </description>
+    <change>Endre</change>
+    <save>Lagre</save>
+    <cancel>Avbryt</cancel>
+    <quickSave>Lagre</quickSave>
+    <name>Navn :</name>
+    <creator>Skaper :</creator>
+    <description>Beskrivelse:</description>
     <version>v</version>
-    <tags>Tags :</tags>
-    <noTags>None</noTags>
+    <tags>Tags:</tags>
+    <noTags>Ingen</noTags>
 
-    <overwriteWarning>Warning: you are about to overwrite an existing file.</overwriteWarning>
-    <overwrite>Save</overwrite>
-    <back>Back</back>
-    <incrementVersion>Increment &amp; Save</incrementVersion>
+    <overwriteWarning>Advarsel: du skal til å overskrive en eksisterende fil.</overwriteWarning>
+    <overwrite>Lagre</overwrite>
+    <back>Tilbake</back>
+    <incrementVersion>Inkrementer &amp; lagre</incrementVersion>
 
-    <titleXbox>Save World</titleXbox>
-    <namePromptXbox>Enter a new name for your world.</namePromptXbox>
-    <creatorPromptXbox>Enter creator name for your world.</creatorPromptXbox>
-    <descriptionPromptXbox>Enter a description for your world.</descriptionPromptXbox>
-    <descriptionPromptPC>Click here and enter a description for your world with the keyboard</descriptionPromptPC>
+    <titleXbox>Lagre verden</titleXbox>
+    <namePromptXbox>Angi et nytt navn for verden.</namePromptXbox>
+    <creatorPromptXbox>Angi navn på skaper for verden.</creatorPromptXbox>
+    <descriptionPromptXbox>Angi en beskrivelse for verden.</descriptionPromptXbox>
+    <descriptionPromptPC>Klikk her og skriv inn en beskrivelse for din verden med tastaturet</descriptionPromptPC>
 
   </saveLevelDialog>
 
   <gamePadInputDialog>
-    <noControllerMoron>You must have at least one controller plugged in to play Kodu. Please plug in a controller.</noControllerMoron>
-    <noControllerAction> Continue</noControllerAction>
-    <unPluggedMoron>A controller has come unplugged. Press A button when ready to continue.</unPluggedMoron>
-    <unPluggedAction> Continue</unPluggedAction>
+    <noControllerMoron>Du må ha minst en kontroller tilkoblet for å spille Kodu. Koble til en kontroller.</noControllerMoron>
+    <noControllerAction>Fortsett</noControllerAction>
+    <unPluggedMoron>En kontroller har kommet blitt koblet fra. Trykk en knapp når klar til å fortsette.</unPluggedMoron>
+    <unPluggedAction>Fortsett</unPluggedAction>
   </gamePadInputDialog>
 
   <newerVersionDialog>
-    <text>One or more of the levels you have imported were created with a newer version of Kodu.  You will not be able to see them until you upgrade.</text>
-    <action> Continue</action>
+    <text>Ett eller flere nivåer du har importert ble opprettet med en nyere versjon av Kodu.  Du vil ikke kunne se dem før du oppgraderer.</text>
+    <action>Fortsett</action>
   </newerVersionDialog>
 
   <undoStack>
-    <undo>Undo</undo>
-    <redo>Redo</redo>
+    <undo>Angre</undo>
+    <redo>Gjør om</redo>
   </undoStack>
 
   <toast>
-    <yButtonMore>More</yButtonMore>
+    <yButtonMore>Mer</yButtonMore>
 
-    <continue>Continue</continue>
-    <dismiss>Do not show again</dismiss>
+    <continue>Fortsett</continue>
+    <dismiss>Ikke vis igjen</dismiss>
 
     <!--
       The *Toast strings are the short version which is displayed in the toast pop-up.
       The *Modal strings are the longer strings displayed in the modal help dialog.
     -->
 
-    <resourceMeterToast>Too much stuff!</resourceMeterToast>
+    <resourceMeterToast>For mange ting!</resourceMeterToast>
     <resourceMeterModal>
-      The thermometer gage on the right side of the screen is showing you that you've almost used up all the resources of the world.  This can cause a low frame rate making the animation look chunky.
-      Both the terrain in the world and the characters in the world use up resources so reducing either of them will help your game's performance.
-    </resourceMeterModal>
+Termometeret på høyre side av skjermen viser at du nesten har brukt opp alle ressursene i verden.  Dette kan forårsake en lav bildefrekvens som gjør at animasjonen blir hakkete.
+Både terrenget i verden og karakterne i verden bruker ressurser så å redusere noen av dem vil hjelpe din spillytelse.
+</resourceMeterModal>
 
-    <fullResourceToast>Maximum resource limit reached.</fullResourceToast>
+    <fullResourceToast>Maksimal ressursgrense nådd.</fullResourceToast>
     <fullResourceModal>
-      The rude buzzing sound and the thermometer gage on the right side of the screen are showing you that you've used up all the resources available to the world.
-      At this point you are not allowed to add any more terrain or characters to your game.
-      Both the terrain in the world and the characters in the world use up resources so reducing either of them will help your game's performance.
-    </fullResourceModal>
+Den uhøflige summelyden og termometeret på høyre side av skjermen viser du at du har brukt opp alle ressurser tilgjengelig for verden.
+Du kan nå ikke legge til mer terreng eller karakterer i spillet.
+Både terrenget i verden og karakterene i verden bruker ressurser så å redusere noen av dem vil hjelpe din spillytelse.
+</fullResourceModal>
 
-    <noControllerToast>This level requires a controller to play.</noControllerToast>
+    <noControllerToast>Dette krever en kontroller for å spille.</noControllerToast>
     <noControllerModal>
-      This level appears to require a gamepad controller in order to play.
-      We are not detecting one in your system.
-      You can still play the game but you will probably have to modify the programming to allow for keyboard control.
-    </noControllerModal>
+Dette synes å kreve en gamepad kontroller for å spille.
+Vi kan ikke oppdage en tilkoblet ditt system.
+Du kan fortsatt spille spillet, men du må sannsynligvis endre programmeringen for å tillate tastaturkontroll.
+</noControllerModal>
 
-    <quietMainMenuToast>Try selecting 'Load World'</quietMainMenuToast>
+    <quietMainMenuToast>Prøv å velge "Last verden"</quietMainMenuToast>
     <quietMainMenuModal>
-      Welcome.  If you are a new user you may want to start by selecting 'Load World'.
-      This will let you load and play an already built level.
-    </quietMainMenuModal>
+Velkommen. Hvis du er en ny bruker kan du starte ved å velge "Last verden".
+Dette lar deg laste inn og spille et allerede bygget nivå.
+</quietMainMenuModal>
 
-    <waterTerrainToast>Water flows.</waterTerrainToast>
+    <waterTerrainToast>Vann renner.</waterTerrainToast>
     <waterTerrainModal>
-      When you add water to the world, it will flow out to fill as much space as possible.
-      If you want to contain the water you need to use the terrain editing tools to raise the land surrounding the area you want filled with water.
+Når du legger vann til verden, vil det strømme ut for å fylle så mye plass som mulig.
+Hvis du vil begrense vannet kan du bruke terreng-redigeringsverktøyet for å heve land rundt området du vil ha fylt med vann.
 
-      "Empty your mind, be formless, shapeless - like water. Now you put water into a cup, it becomes the cup, you put water into a bottle, it becomes the bottle, you put it in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water, my friend."
-      Bruce Lee
-    </waterTerrainModal>
+"Empty your mind, be formless, shapeless - like water. Now you put water into a cup, it becomes the cup, you put water into a bottle, it becomes the bottle, you put it in a teapot, it becomes the teapot. Now water can flow or it can crash. Be water, my friend."
+Bruce Lee
+</waterTerrainModal>
 
-    <waterNoTerrainToast>Water must go over terrain.</waterNoTerrainToast>
-    <waterNoTerrainModal>Water can only be added on top of terrain.  Either add some land or move the cursor over existing land before adding water.</waterNoTerrainModal>
+    <waterNoTerrainToast>Vann må være over terreng.</waterNoTerrainToast>
+    <waterNoTerrainModal>Vann kan bare legges over terreng.  Legge til litt land eller flytt markøren over eksisterende land før du legger til vann.</waterNoTerrainModal>
 
-    <noTerrainToRaiseToast>First add terrain with the Ground Brush &lt;terrainpaint&gt;.</noTerrainToRaiseToast>
+    <noTerrainToRaiseToast>Legge til terreng med bakkepenselen &lt;terrainpaint&gt;.</noTerrainToRaiseToast>
     <noTerrainToRaiseModal>
-      Before you can raise hills you need to add terrain with the Ground Brush &lt;terrainpaint&gt;.
-    </noTerrainToRaiseModal>
+Før du kan heve åser må du legge terreng med bakkepenselen &lt;terrainpaint&gt;.
+</noTerrainToRaiseModal>
     
-    <gamepadNoFilterToast>You programmed using a gamepad without specifying any buttons or sticks to check.</gamepadNoFilterToast>
+    <gamepadNoFilterToast>Du programmerte med en gamepad uten å angi noen knapper eller styrespaker for å sjekke.</gamepadNoFilterToast>
     <gamepadNoFilterModal>
       When programming your character to respond to the gamepad you also need to specify which stick or button to test for.
       For instance:
@@ -1243,76 +1243,76 @@ Inverter styrespak for kameraesnuing:
       When <![CDATA[<gamepad><abutton>]]> Do Shoot
     </gamepadNoFilterModal>
 
-    <switchNoTargetToast>You programmed a switch without telling what page to switch to.</switchNoTargetToast>
+    <switchNoTargetToast>Du programmert en bryter uten å fortelle hvilken side det skal byttes til.</switchNoTargetToast>
     <switchNoTargetModal>
-      When using the Switch &lt;actuator.switchtask&gt; tile you also need to tell the system what page to switch to.
-      
-      For example: &lt;actuator.switchtask&gt; &lt;modifier.taskb&gt;
-    </switchNoTargetModal>
+Når du bruker Bytt &lt;actuator.switchtask&gt; flisen må du også fortelle systemet hvilken side det skal å byttes til.
+
+For eksempel: &lt;actuator.switchtask&gt; &lt;modifier.taskb&gt;
+</switchNoTargetModal>
     
   </toast>
 
   <error>
-    <xna2required>Kodu requires XNA version 3.0 in order to run.  Please install the update and try again.</xna2required>
-    <outOfDiskSpace>Error saving, you may be out of disk space.  Please clear some disk space before restarting Kodu.</outOfDiskSpace>
+    <xna2required>Kodu krever XNA versjon 3.0 for å kjøre.  Installer oppdateringen og prøv på nytt.</xna2required>
+    <outOfDiskSpace>Feil ved lagring, ikke nok diskplass.  Frigjør litt  diskplass før ny start av Kodu.</outOfDiskSpace>
   </error>
 
   <warning>
     <noncomplianttouch_title>Windows 8 Compliance</noncomplianttouch_title>
-    <noncomplianttouch>The detected touch device is not Windows 8 compliant and may not be able to accurately recognize all Kodu touch gestures.
+    <noncomplianttouch>Oppdaget touch-enhet er ikke Windows 8 kompatibel og kan kanskje ikke gjenkjenne alle Kodu touch-bevegelsene.
 
-Please use a compliant device or revert to other input methods if your device is not responding to touch gestures correctly.</noncomplianttouch>
+Bruk en kompatibel enhet eller gå tilbake til andre inndatametoder hvis enheten ikke reagerer riktig på touch-bevegelsene.</noncomplianttouch>
   </warning>
   
 
   <terrainProcess>
-    <pack>Optimizing Data - Please Wait</pack>
-    <unpack>Unpacking Data - Please Wait</unpack>
+    <pack>Optimaliserer Data - Vennligst Vent</pack>
+    <unpack>Pakker Ut Data - Vennligst Vent</unpack>
   </terrainProcess>
 
   <genres>
-    <all>All</all>
-    <action>Action</action>
-    <adventure>Adventure</adventure>
-    <puzzle>Puzzle</puzzle>
+    <all>Alle</all>
+    <action>Handling</action>
+    <adventure>Eventyr</adventure>
+    <puzzle>Puslespill</puzzle>
     <racing>Racing</racing>
     <rpg>RPG</rpg>
-    <shooter>Shooter</shooter>
-    <sports>Sports</sports>
-    <strategy>Strategy</strategy>
-    <multiplayer>Multiplayer</multiplayer>
-    <favorite>Favorite</favorite>
-    <keyboard>Keyboard/Mouse</keyboard>
-    <controller>Xbox Controller</controller>
+    <shooter>Skytespill</shooter>
+    <sports>Sport</sports>
+    <strategy>Strategi</strategy>
+    <multiplayer>Fler-spiller</multiplayer>
+    <favorite>Favoritt</favorite>
+    <keyboard>Tastatur/mus</keyboard>
+    <controller>Xbox-kontroller</controller>
     <touch>Touch</touch>
 
-    <lessons>Lessons</lessons>
-    <sampleWorlds>Sample Worlds</sampleWorlds>
-    <starterWorlds>Starter Worlds</starterWorlds>
-    <finishedWorlds>Finished</finishedWorlds>
+    <lessons>Leksjoner</lessons>
+    <sampleWorlds>Eksempelverdener</sampleWorlds>
+    <starterWorlds>Oppstartsverdener</starterWorlds>
+    <finishedWorlds>Ferdig</finishedWorlds>
 
-    <builtInWorlds>Built-In Worlds</builtInWorlds>
-    <myWorlds>My Worlds</myWorlds>
-    <downloads>Downloads</downloads>
+    <builtInWorlds>Innebygde verdener</builtInWorlds>
+    <myWorlds>Min verdener</myWorlds>
+    <downloads>Nedlastinger</downloads>
   </genres>
 
   <shareFeedEvent>
-    <isJoiningFmt>{0} is joining.</isJoiningFmt>
-    <hasJoinedFmt>{0} has joined.</hasJoinedFmt>
-    <olderVersionHasJoinedFmt>{0} has joined using an older version of Kodu and cannot share with you.</olderVersionHasJoinedFmt>
-    <hasLeftFmt>{0} has left.</hasLeftFmt>
-    <isDownloadingFmt>{0} is downloading '{1}' from {2}.</isDownloadingFmt>
-    <finishedDownloadingFmt>{0} finished downloading '{1}'.</finishedDownloadingFmt>
-    <invitedFmt>{0} is invited.</invitedFmt>
-    <noOneInvited>No friends have been invited. Press &lt;B&gt; to invite your friends.</noOneInvited>
-    <startedSharingFmt>{0} started sharing '{1}'.</startedSharingFmt>
-    <stoppedSharingFmt>{0} stopped sharing '{1}'.</stoppedSharingFmt>
-    <hostEntered>Host has joined.</hostEntered>
-    <waitingForHost>Waiting for host to join.</waitingForHost>
-    <levelSentToMeFmt>{0} sent you '{1}'.</levelSentToMeFmt>
-    <levelSendAcceptedFmt>You queued '{0}' for download by {1}.</levelSendAcceptedFmt>
-    <levelSendRejectedFmt>{1} already has '{0}'.</levelSendRejectedFmt>
-    <updateAvailableFmt>A Kodu update is available! Re-download Kodu to share with {0}.</updateAvailableFmt>
+    <isJoiningFmt>{0} blir med.</isJoiningFmt>
+    <hasJoinedFmt>{0} har blitt med.</hasJoinedFmt>
+    <olderVersionHasJoinedFmt>{0} har blitt med med en eldre versjon av Kodu og kan ikke dele med deg.</olderVersionHasJoinedFmt>
+    <hasLeftFmt>{0} har gått ut.</hasLeftFmt>
+    <isDownloadingFmt>{0} laster ned {1} fra {2}.</isDownloadingFmt>
+    <finishedDownloadingFmt>{0} lastet ned '{1}'.</finishedDownloadingFmt>
+    <invitedFmt>{0} er invitert.</invitedFmt>
+    <noOneInvited>Ingen venner er invitert. Trykk &lt;B&gt; for å invitere dine venner.</noOneInvited>
+    <startedSharingFmt>{0} startet å dele '{1}'.</startedSharingFmt>
+    <stoppedSharingFmt>{0} sluttet å dele '{1}'.</stoppedSharingFmt>
+    <hostEntered>Verten har blitt med.</hostEntered>
+    <waitingForHost>Venter på at verten blir med.</waitingForHost>
+    <levelSentToMeFmt>{0} har sendt deg '{1}'.</levelSentToMeFmt>
+    <levelSendAcceptedFmt>Da la '{0}' i kø for nedlasting av {1}.</levelSendAcceptedFmt>
+    <levelSendRejectedFmt>{1} har allerede '{0}'.</levelSendRejectedFmt>
+    <updateAvailableFmt>Det finnes en Kodu oppdatering! Laste ned Kodu på nytt for å dele med {0}.</updateAvailableFmt>
   </shareFeedEvent>
 
 </Strings>
