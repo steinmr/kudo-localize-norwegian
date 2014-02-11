@@ -650,55 +650,55 @@ Inverter styrespak for kameraesnuing:
     <no>Nei</no>
   </textDialog>
 
-  <buttonAliasStrings>
+   <buttonAliasStrings>
     <aButton>
       <alias>a</alias>
-      <alias>aknappen</alias>
-      <alias>a knapp</alias>
-      <alias>knappa</alias>
-      <alias>knapp a</alias>
+      <alias>abutton</alias>
+      <alias>a button</alias>
+      <alias>buttona</alias>
+      <alias>button a</alias>
     </aButton>
     <bButton>
       <alias>b</alias>
-      <alias>bknappen</alias>
-      <alias>b knapp</alias>
-      <alias>knappb</alias>
-      <alias>knapp b</alias>
+      <alias>bbutton</alias>
+      <alias>b button</alias>
+      <alias>buttonb</alias>
+      <alias>button b</alias>
     </bButton>
     <xButton>
       <alias>x</alias>
-      <alias>xknappen</alias>
-      <alias>x knapp</alias>
-      <alias>knappx</alias>
-      <alias>knapp x</alias>
+      <alias>xbutton</alias>
+      <alias>x button</alias>
+      <alias>buttonx</alias>
+      <alias>button x</alias>
     </xButton>
     <yButton>
       <alias>y</alias>
-      <alias>yknappen</alias>
-      <alias>y knapp</alias>
-      <alias>knappy</alias>
-      <alias>knapp y</alias>
+      <alias>ybutton</alias>
+      <alias>y button</alias>
+      <alias>buttony</alias>
+      <alias>button y</alias>
     </yButton>
     <leftStick>
       <alias>ls</alias>
-      <alias>l spak</alias>
-      <alias>lspak</alias>
-      <alias>venstre spak</alias>
-      <alias>venstrespak</alias>
+      <alias>l stick</alias>
+      <alias>lstick</alias>
+      <alias>left stick</alias>
+      <alias>leftstick</alias>
     </leftStick>
     <rightStick>
       <alias>rs</alias>
-      <alias>r spak</alias>
-      <alias>rspak</alias>
-      <alias>høyre spak</alias>
-      <alias>høyrespak</alias>
+      <alias>r stick</alias>
+      <alias>rstick</alias>
+      <alias>right stick</alias>
+      <alias>rightstick</alias>
     </rightStick>
     <leftShoulder>
       <alias>lb</alias>
-      <alias>l skulder</alias>
-      <alias>lskulder</alias>
-      <alias>venstre skulder</alias>
-      <alias>venstreskulder</alias>
+      <alias>l shoulder</alias>
+      <alias>lshoulder</alias>
+      <alias>left shoulder</alias>
+      <alias>leftshoulder</alias>
       <alias>l bumper</alias>
       <alias>lbumper</alias>
       <alias>left bumper</alias>
@@ -706,10 +706,10 @@ Inverter styrespak for kameraesnuing:
     </leftShoulder>
     <rightShoulder>
       <alias>rb</alias>
-      <alias>r skulder</alias>
-      <alias>rskulder</alias>
-      <alias>høyre skulder</alias>
-      <alias>høyreskulder</alias>
+      <alias>r shoulder</alias>
+      <alias>rshoulder</alias>
+      <alias>right shoulder</alias>
+      <alias>rightshoulder</alias>
       <alias>r bumper</alias>
       <alias>rbumper</alias>
       <alias>right bumper</alias>
@@ -717,53 +717,53 @@ Inverter styrespak for kameraesnuing:
     </rightShoulder>
     <leftTrigger>
       <alias>lt</alias>
-      <alias>v avtrekker</alias>
-      <alias>lavtrekker</alias>
-      <alias>venstre avtrekker</alias>
-      <alias>venstreavtrekker</alias>
+      <alias>l trigger</alias>
+      <alias>ltrigger</alias>
+      <alias>left trigger</alias>
+      <alias>lefttrigger</alias>
     </leftTrigger>
     <rightTrigger>
       <alias>rt</alias>
-      <alias>h avtrekker</alias>
-      <alias>ravtrekker</alias>
-      <alias>høyre avtrekker</alias>
-      <alias>høyreavtrekker</alias>
+      <alias>r trigger</alias>
+      <alias>rtrigger</alias>
+      <alias>right trigger</alias>
+      <alias>righttrigger</alias>
     </rightTrigger>
     <dpadUpDown>
-      <alias>dpadoppned</alias>
-      <alias>dpad opp ned</alias>
-      <alias>dpadvertikal</alias>
-      <alias>dpad vertikal</alias>
+      <alias>dpadupdown</alias>
+      <alias>dpad up down</alias>
+      <alias>dpadvertical</alias>
+      <alias>dpad vertical</alias>
     </dpadUpDown>
     <dpadUp>
-      <alias>dpadopp</alias>
-      <alias>dpad opp</alias>
+      <alias>dpadup</alias>
+      <alias>dpad up</alias>
     </dpadUp>
     <dpadDown>
-      <alias>dpadned</alias>
-      <alias>dpad ned</alias>
+      <alias>dpaddown</alias>
+      <alias>dpad down</alias>
     </dpadDown>
     <dpadRightLeft>
-      <alias>dpadhøyrevenstre</alias>
-      <alias>dpad høyre venstre</alias>
-      <alias>dpadhorisontal</alias>
-      <alias>dpad horisontal</alias>
+      <alias>dpadrightleft</alias>
+      <alias>dpad right left</alias>
+      <alias>dpadhorizontal</alias>
+      <alias>dpad horizontal</alias>
     </dpadRightLeft>
     <dpadRight>
-      <alias>dpadhøyre</alias>
-      <alias>dpad høyre</alias>
+      <alias>dpadright</alias>
+      <alias>dpad right</alias>
     </dpadRight>
     <dpadLeft>
-      <alias>dpadvenstre</alias>
-      <alias>dpad venstre</alias>
+      <alias>dpadleft</alias>
+      <alias>dpad left</alias>
     </dpadLeft>
     <start>
       <alias>start</alias>
-      <alias>startknapp</alias>
+      <alias>start button</alias>
     </start>
     <back>
-      <alias>tilbake</alias>
-      <alias>tilbake-knapp</alias>
+      <alias>back</alias>
+      <alias>back button</alias>
     </back>
     <gamepad>
       <alias>gamepad</alias>
@@ -771,233 +771,233 @@ Inverter styrespak for kameraesnuing:
 
     <!-- GLYPH SUBSTITUTIONS -->
     <apple>
-      <alias>eple</alias>
-      <alias>frukt</alias>
+      <alias>apple</alias>
+      <alias>fruit</alias>
     </apple>
     <ball>
-      <alias>ballen</alias>
-      <alias>fotball</alias>
+      <alias>ball</alias>
+      <alias>soccer ball</alias>
     </ball>
     <balloon>
-      <alias>ballong</alias>
+      <alias>balloon</alias>
     </balloon>
     <blimp>
       <alias>blimp</alias>
-      <alias>vindblimp</alias>
+      <alias>windblimp</alias>
     </blimp>
     <boat>
-      <alias>båt</alias>
-      <alias>skip</alias>
-      <alias>flytebot</alias>
+      <alias>boat</alias>
+      <alias>ship</alias>
+      <alias>floatbot</alias>
     </boat>
     <boku>
       <alias>kodu</alias>
     </boku>
     <bullet>
-      <alias>kule</alias>
+      <alias>bullet</alias>
     </bullet>
     <castle>
-      <alias>slott</alias>
+      <alias>castle</alias>
     </castle>
     <clam>
-      <alias>musling</alias>
+      <alias>clam</alias>
     </clam>
     <cloud>
-      <alias>sky</alias>
+      <alias>cloud</alias>
     </cloud>
     <coin>
-      <alias>mynt</alias>
+      <alias>coin</alias>
     </coin>
     <cursor>
-      <alias>markør</alias>
+      <alias>cursor</alias>
     </cursor>
     <drum>
-      <alias>tromme</alias>
+      <alias>drum</alias>
     </drum>
     <factory>
-      <alias>fabrikk</alias>
+      <alias>factory</alias>
     </factory>
     <fan>
-      <alias>vifte</alias>
+      <alias>fan</alias>
     </fan>
     <fastbot>
-      <alias>raskbot</alias>
-      <alias>sykkel</alias>
+      <alias>fastbot</alias>
+      <alias>cycle</alias>
     </fastbot>
     <flyfish>
-      <alias>flygefisk</alias>
+      <alias>flyfish</alias>
     </flyfish>
     <heart>
-      <alias>hjerte</alias>
+      <alias>heart</alias>
     </heart>
     <hut>
-      <alias>hytte</alias>
+      <alias>hut</alias>
     </hut>
     <iceBerg>
-      <alias>isfjell</alias>
+      <alias>iceBerg</alias>
     </iceBerg>
     <inkjet>
-      <alias>blekk</alias>
-      <alias>blekkspray</alias>
+      <alias>ink</alias>
+      <alias>inkjet</alias>
     </inkjet>
     <jet>
-      <alias>spray</alias>
+      <alias>jet</alias>
     </jet>
     <light>
-      <alias>lys</alias>
+      <alias>light</alias>
     </light>
     <lilypad>
-      <alias>liljeblad</alias>
+      <alias>lilypad</alias>
     </lilypad>
     <mine>
       <alias>mine</alias>
     </mine>
     <missile>
-      <alias>ammunisjon</alias>
-      <alias>rakett</alias>
+      <alias>ammo</alias>
+      <alias>missile</alias>
     </missile>
     <octopus>
       <alias>octo</alias>
-      <alias>blekksprut</alias>
+      <alias>octopus</alias>
     </octopus>
     <pad>
       <alias>pad</alias>
-      <alias>trykknapp</alias>
+      <alias>pushpad</alias>
     </pad>
     <pipe>
-      <alias>rør</alias>
+      <alias>pipe</alias>
     </pipe>
     <puck>
       <alias>puck</alias>
     </puck>
     <rock>
-      <alias>stein</alias>
+      <alias>rock</alias>
     </rock>
     <rockLowValue>
-      <alias>steinLavVerdi</alias>
+      <alias>rockLowValue</alias>
     </rockLowValue>
     <rockHighValue>
-      <alias>steinHøyVerdi</alias>
+      <alias>rockHighValue</alias>
     </rockHighValue>
     <rockLowValueUnknown>
-      <alias>steinLavVerdiUkjent</alias>
+      <alias>rockLowValueUnknown</alias>
     </rockLowValueUnknown>
     <rockHighValueUnknown>
-      <alias>steinHøyVerdiUkjent</alias>
+      <alias>rockHighValueUnknown</alias>
     </rockHighValueUnknown>
     <rockUnknown>
-      <alias>steinUkjent</alias>
+      <alias>rockUnknown</alias>
     </rockUnknown>
     <satellite>
-      <alias>satellitt</alias>
+      <alias>satellite</alias>
       <alias>sputnik</alias>
     </satellite>
     <saucer>
-      <alias>tallerken</alias>
+      <alias>saucer</alias>
     </saucer>
     <seagrass>
-      <alias>sjøgress</alias>
+      <alias>seagrass</alias>
     </seagrass>
     <star>
-      <alias>stjerne</alias>
+      <alias>star</alias>
     </star>
     <starfish>
-      <alias>sjøstjerne</alias>
+      <alias>starfish</alias>
     </starfish>
     <stick>
-      <alias>spak</alias>
-      <alias>spakgutt</alias>
+      <alias>stick</alias>
+      <alias>stickboy</alias>
     </stick>
     <sub>
       <alias>sub</alias>
       <alias>subbot</alias>
     </sub>
     <swimfish>
-      <alias>fisk</alias>
-      <alias>svømmefisk</alias>
+      <alias>fish</alias>
+      <alias>swimfish</alias>
     </swimfish>
     <terracannon>
-      <alias>kanon</alias>
-      <alias>jordcannon</alias>
+      <alias>cannon</alias>
+      <alias>terracannon</alias>
     </terracannon>
     <tree>
-      <alias>tre</alias>
+      <alias>tree</alias>
     </tree>
     <turtle>
-      <alias>skilpadde</alias>
+      <alias>turtle</alias>
     </turtle>
     <rover>
       <alias>rover</alias>
     </rover>
     <wisp>
-      <alias>dott</alias>
+      <alias>wisp</alias>
     </wisp>
 
     <!-- Tools -->
     <play>
-      <alias>spill</alias>
+      <alias>play</alias>
     </play>
     <homeMenu>
-      <alias>hjemmMeny</alias>
+      <alias>homeMenu</alias>
     </homeMenu>
     <cameraMove>
-      <alias>kameraBevegelse</alias>
+      <alias>cameraMove</alias>
     </cameraMove>
     <objectEdit>
-      <alias>objektRediger</alias>
+      <alias>objectEdit</alias>
     </objectEdit>
     <objectSettings>
-      <alias>objektInstillinger</alias>
+      <alias>objectSettings</alias>
     </objectSettings>
     <paths>
-      <alias>baner</alias>
+      <alias>paths</alias>
     </paths>
     <terrainPaint>
-      <alias>jordMaling</alias>
+      <alias>terrainPaint</alias>
     </terrainPaint>
     <terrainUpDown>
-      <alias>terrengOppNed</alias>
+      <alias>terrainUpDown</alias>
     </terrainUpDown>
     <terrainSmoothLevel>
-      <alias>terrengJevnUtNivå</alias>
+      <alias>terrainSmoothLevel</alias>
     </terrainSmoothLevel>
     <terrainSpikeyHilly>
-      <alias>terrengSpiketeBakke</alias>
+      <alias>terrainSpikeyHilly</alias>
     </terrainSpikeyHilly>
     <deleteObjects>
-      <alias>slettObjekter</alias>
+      <alias>deleteObjects</alias>
     </deleteObjects>
     <water>
-      <alias>vann</alias>
+      <alias>water</alias>
     </water>
     <worldSettings>
-      <alias>verdensInstillinger</alias>
+      <alias>worldSettings</alias>
     </worldSettings>
     <waterType>
-      <alias>vannType</alias>
+      <alias>waterType</alias>
     </waterType>
     <materialType>
-      <alias>materialeType</alias>
+      <alias>materialType</alias>
     </materialType>
     <brushType>
-      <alias>malebørsteType</alias>
+      <alias>brushType</alias>
     </brushType>
 
     <heartIcon>
-      <alias>hjerteIkon</alias>
+      <alias>heartIcon</alias>
     </heartIcon>
     <brokenHeartIcon>
-      <alias>bruttHjerteIkon</alias>
+      <alias>brokenHeartIcon</alias>
     </brokenHeartIcon>
     <reportAbuseIcon>
-      <alias>rapporterMisbrukIkon</alias>
+      <alias>reportAbuseIcon</alias>
     </reportAbuseIcon>
     <reportAbuseGreyIcon>
-      <alias>rapporterMisbrukGråttIkon</alias>
+      <alias>reportAbuseGreyIcon</alias>
     </reportAbuseGreyIcon>
 
     <scoreblack>
-      <alias>score svart</alias>
+      <alias>score black</alias>
       <alias>scoreblack</alias>
     </scoreblack>
     <scorewhite>
