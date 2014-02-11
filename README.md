@@ -34,3 +34,5 @@ Blip=Blip
 Bot=Bot
 Tutorial=Innføring
 Team=Lag
+Character=Karakter
+Bruce Lee quotes=Untranslated
