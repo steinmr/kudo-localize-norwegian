@@ -197,8 +197,8 @@
         <mode>LoadLevelMenu</mode>
       </curModes>
       <targetMode>MainMenu</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Main Menu.</gamepadText>
-      <mouseText>Press [esc] to return to the Main Menu.</mouseText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
+      <mouseText>Trykk [esc] for å gå tilbake til hovedmenyen.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -206,8 +206,8 @@
         <mode>LoadLevelMenu</mode>
       </curModes>
       <targetMode>HomeMenu</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Home Menu.</gamepadText>
-      <mouseText>Press [esc] to return to the Home Menu.</mouseText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hjem-menyen.</gamepadText>
+      <mouseText>Trykk [esc] for å gå tilbake til hjem-menyen.</mouseText>
     </Crumb>
 
     <!--  From CommunityMenu  -->
@@ -216,11 +216,10 @@
         <mode>CommunityMenu</mode>
       </curModes>
       <targetMode>Unknown</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Main Menu.</gamepadText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
       <mouseText>
-        Click on green arrows to scroll, click on game tile to choose game.
-        Use [leftarrow][rightarrow] to scroll, press [enter] to choose game.
-      </mouseText>
+Klikk på grønne piler for å bla, klikk på spill- flis å velge spill.
+Bruk [leftarrow][rightarrow] for å bla, trykk [enter] for å velge spill.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -228,8 +227,8 @@
         <mode>CommunityMenu</mode>
       </curModes>
       <targetMode>MainMenu</targetMode>
-      <gamepadText>Press &lt;b&gt; to return to the Main Menu.</gamepadText>
-      <mouseText>Press [esc] to return to the Main Menu.</mouseText>
+      <gamepadText>Trykk &lt;b&gt; for å gå tilbake til hovedmenyen.</gamepadText>
+      <mouseText>Trykk [esc] for å gå tilbake til hovedmenyen.</mouseText>
     </Crumb>
 
     <!--  ToolMenu from any tool to every other. Gamepad only.  -->
@@ -251,8 +250,8 @@
       as the target mode to it seems shorter than going through the HomeMenu.
       -->
       <targetMode>InGame</targetMode>
-      <gamepadText>Use the triggers to choose Play &lt;play&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Spill &lt;play&gt;</gamepadText>
+      <mouseText>Klikk på Spill &lt;play&gt; for å kjøre spillet.</mouseText>
     </Crumb>
 
     <Crumb>
@@ -268,8 +267,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuEditObject</targetMode>
-      <gamepadText>Use the triggers to choose Object Edit &lt;ObjectEdit&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Objektredigering &lt;ObjectEdit&gt;</gamepadText>
+      <mouseText>Klikk på Spill &lt;play&gt; for å kjøre spillet.</mouseText>
     </Crumb>
 
     <!-- Lead user through EditObjectFocus to get to Programming -->
@@ -278,9 +277,9 @@
         <mode>ToolMenuEditObject</mode>
       </curModes>
       <targetMode>GamepadEditObjectFocus</targetMode>
-      <gamepadText>Press &lt;a&gt; to program objects.</gamepadText>
-      <mouseText></mouseText>
-      <touchText>Tap &lt;Kodu&gt; to program objects.</touchText>
+      <gamepadText>Trykk &lt;a&gt; for å programmere objekter.</gamepadText>
+      <mouseText>Klikk på Hjem-meny &lt;homemenu&gt;</mouseText>
+      <touchText>Trykk &lt;Kodu&gt; for å programmere objekter.</touchText>
     </Crumb>
 
     <!-- Lead user through EditObject to get to Programming -->
@@ -297,8 +296,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>Programming</targetMode>
-      <gamepadText>Use the triggers to choose Object Edit &lt;ObjectEdit&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Objektredigering &lt;ObjectEdit&gt;</gamepadText>
+      <mouseText>Klikk på Hjem-menyen &lt;homemenu&gt;</mouseText>
     </Crumb>
 
     <Crumb>
@@ -314,8 +313,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuTerrainSmoothLevel</targetMode>
-      <gamepadText>Use the triggers to choose the Terrain Smooth/Level tool &lt;terrainsmoothlevel&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Terreng-plannering-verktøyet &lt;terrainsmoothlevel&gt;</gamepadText>
+      <mouseText>Klikk på Flytt Kamera &lt;cameramove&gt;</mouseText>
     </Crumb>
 
     <Crumb>
@@ -331,8 +330,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuTerrainPaint</targetMode>
-      <gamepadText>Use the triggers to choose the Terrain Paint tool &lt;terrainpaint&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Terreng-malings-verktøyet &lt;terrainpaint&gt;</gamepadText>
+      <mouseText>Klikk på Objekt-verktøyet &lt;ObjectEdit&gt; i menyen</mouseText>
     </Crumb>
 
     <Crumb>
@@ -348,8 +347,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuTerrainSpikeyHilly</targetMode>
-      <gamepadText>Use the triggers to choose the Terrain Spikey/Hilly tool &lt;terrainspikeyhilly&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Terreng-bakke-verktøyet &lt;terrainspikeyhilly&gt;</gamepadText>
+      <mouseText>Klikk på Sti-verktøyet &lt;paths&gt; i menyen under</mouseText>
     </Crumb>
 
     <Crumb>
@@ -365,8 +364,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuTerrainUpDown</targetMode>
-      <gamepadText>Use the triggers to choose the Terrain Raise/Lower tool &lt;terrainUpDown&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Terreng-heve/senke-verktøyet &lt;terrainUpDown&gt;</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -382,8 +381,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuWater</targetMode>
-      <gamepadText>Use the triggers to choose the Water tool &lt;water&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Vann-verktøyet &lt;water&gt;</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -399,8 +398,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuDeleteObjects</targetMode>
-      <gamepadText>Use the triggers to choose Delete Objects tool &lt;deleteobjects&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Slett objekter-verktøyet &lt;deleteobjects&gt;</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -416,8 +415,8 @@
         <mode>ToolMenuDeleteObjects</mode>
       </curModes>
       <targetMode>ToolMenuWorldSettings</targetMode>
-      <gamepadText>Use the triggers to choose World Settings &lt;worldsettings&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Bruk utløsere til å velge Verdens-innstillinger &lt;worldsettings&gt;</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <!--  GamePad Tools, from any tool back to the ToolBar -->
@@ -433,8 +432,8 @@
         <mode>GamepadDeleteObjects</mode>
       </curModes>
       <targetMode>ToolMenuEditObject</targetMode>
-      <gamepadText>Press &lt;back&gt; to go to the Tool Menu.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå til Verktøy-menyen.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -442,8 +441,8 @@
         <mode>GamepadWorldSettings</mode>
       </curModes>
       <targetMode>ToolMenuEditObject</targetMode>
-      <gamepadText>Press &lt;back&gt; to exit.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å avslutte.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <!--  Gamepad tools, from toolbar to actual tool  -->
@@ -453,8 +452,8 @@
         <mode>ToolMenuRunSim</mode>
       </curModes>
       <targetMode>InGame</targetMode>
-      <gamepadText>Press &lt;a&gt; to run your game.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å kjøre spillet.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -462,8 +461,8 @@
         <mode>ToolMenuEditObject</mode>
       </curModes>
       <targetMode>GamepadEditObject</targetMode>
-      <gamepadText>Press &lt;a&gt; to add, program or edit objects.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å legge til, programmere eller redigere objekter.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -471,8 +470,8 @@
         <mode>ToolMenuTerrainSmoothLevel</mode>
       </curModes>
       <targetMode>GamepadTerrainSmoothLevel</targetMode>
-      <gamepadText>Press &lt;a&gt; to change your terrain.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å endre ditt terreng.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -480,8 +479,8 @@
         <mode>ToolMenuTerrainPaint</mode>
       </curModes>
       <targetMode>GamepadTerrainPaint</targetMode>
-      <gamepadText>Press &lt;a&gt; to add or paint your terrain.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å legge til eller male ditt terreng.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -489,8 +488,8 @@
         <mode>ToolMenuTerrainSpikeyHilly</mode>
       </curModes>
       <targetMode>GamepadTerrainSpikeyHilly</targetMode>
-      <gamepadText>Press &lt;a&gt; to change your terrain.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å endre ditt terreng.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -498,8 +497,8 @@
         <mode>ToolMenuEditObject</mode>
       </curModes>
       <targetMode>GamepadEditObject</targetMode>
-      <gamepadText>Press &lt;a&gt; to add, program or edit objects.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å legge til, programmere eller redigere objekter.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -507,8 +506,8 @@
         <mode>ToolMenuTerrainUpDown</mode>
       </curModes>
       <targetMode>GamepadTerrainUpDown</targetMode>
-      <gamepadText>Press &lt;a&gt; to raise and lower your terrain.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; å heve og senke ditt terreng.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -516,8 +515,8 @@
         <mode>ToolMenuWater</mode>
       </curModes>
       <targetMode>GamepadWater</targetMode>
-      <gamepadText>Press &lt;a&gt; to add or change water.</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å legge til eller endre vann.</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -525,8 +524,8 @@
         <mode>ToolMenuDeleteObjects</mode>
       </curModes>
       <targetMode>GamepadDeleteObjects</targetMode>
-      <gamepadText>Press &lt;a&gt; to use the Delete Objects tool &lt;deleteobjects&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; å bruke Slette objekter-verktøyet &lt;deleteobjects&gt;</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -534,8 +533,8 @@
         <mode>ToolMenuWorldSettings</mode>
       </curModes>
       <targetMode>GamepadWorldSettings</targetMode>
-      <gamepadText>Press &lt;a&gt; to change World Settings &lt;worldsettings&gt;</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;a&gt; for å endre verdens-instillinger &lt;worldsettings&gt;</gamepadText>
+      <mouseText/>
     </Crumb>
     
     <!-- From gamepad tools back to tool menu -->
@@ -545,56 +544,56 @@
         <mode>GamepadEditObjectFocus</mode>
       </curModes>
       <targetMode>ToolMenuEditObject</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>GamepadTerrainPaint</mode>
       </curModes>
       <targetMode>ToolMenuTerrainPaint</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>GamepadTerrainUpDown</mode>
       </curModes>
       <targetMode>ToolMenuTerrainUpDown</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>GamepadTerrainSmoothLevel</mode>
       </curModes>
       <targetMode>ToolMenuTerrainSmoothLevel</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>GamepadTerrainSpikeyHilly</mode>
       </curModes>
       <targetMode>ToolMenuTerrainSpikeyHilly</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>GamepadWater</mode>
       </curModes>
       <targetMode>ToolMenuWater</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>GamepadDeleteObjects</mode>
       </curModes>
       <targetMode>ToolMenuDeleteObjects</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -608,8 +607,8 @@
         <mode>GamepadTerrainSpikeyHilly</mode>
       </curModes>
       <targetMode>InGame</targetMode>
-      <gamepadText>Press &lt;back&gt; to return to the Tool Menu</gamepadText>
-      <mouseText></mouseText>
+      <gamepadText>Trykk &lt;back&gt; for å gå tilbake til Verktøy-menyen</gamepadText>
+      <mouseText/>
     </Crumb>
 
     <!--  Mouse Tools, from every tool to every other tool -->
@@ -627,9 +626,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MousePlay</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on Play &lt;play&gt; to run your game.</mouseText>
-      <touchText>Tap on Play &lt;play&gt; to run your game.</touchText>
+      <touchText>Trykk på Spill &lt;play&gt; å kjøre spillet.</touchText>
     </Crumb>
     <Crumb>
       <curModes>
@@ -644,9 +643,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>InGame</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on Play &lt;play&gt; to run your game.</mouseText>
-      <touchText>Tap on Play &lt;play&gt; to run your game.</touchText>
+      <touchText>Trykk på spill &lt;play&gt; å kjøre spillet.</touchText>
     </Crumb>
 
     <Crumb>
@@ -662,9 +661,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseHome</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on Home Menu &lt;homemenu&gt;</mouseText>
-      <touchText>Tap on Home Menu &lt;homemenu&gt;</touchText>
+      <touchText>Trykk på Hjem-menyen &lt;homemenu&gt;</touchText>
     </Crumb>
 
     <Crumb>
@@ -680,9 +679,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>HomeMenu</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on Home Menu &lt;homemenu&gt;</mouseText>
-      <touchText>Tap on Home Menu &lt;homemenu&gt;</touchText>
+      <touchText>Trykk på Hjem-menyen &lt;homemenu&gt;</touchText>
     </Crumb>
 
     <Crumb>
@@ -697,9 +696,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseCameraMove</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on Camera Move &lt;cameramove&gt;</mouseText>
-      <touchText>Tap on Camera Move &lt;cameramove&gt;</touchText>
+      <touchText>Trykk på Flytt Kameraet &lt;cameramove&gt;</touchText>
     </Crumb>
 
     <Crumb>
@@ -714,9 +713,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseEditObject</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Object Tool &lt;ObjectEdit&gt; in the menu below to add or program objects.</mouseText>
-      <touchText>Tap on the Object Tool &lt;ObjectEdit&gt; in the menu below to add or program objects.</touchText>
+      <touchText>Trykk på Objektet-verktøyet &lt;ObjectEdit&gt; i listen nedenfor for å legge til eller programmere objekter.</touchText>
     </Crumb>
 
     <Crumb>
@@ -731,9 +730,9 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MousePaths</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Paths Tool &lt;paths&gt; in the menu below to add or edit paths.</mouseText>
-      <touchText>Tap on the Paths Tool &lt;paths&gt; in the menu below to add or edit paths.</touchText>
+      <touchText>Trykk på baner verktøyet &lt;paths&gt;jeg høre nedenfor for å legge til eller redigere baner.</touchText>
     </Crumb>
 
     <Crumb>
@@ -748,7 +747,7 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseTerrainPaint</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Terrain Tool &lt;terrainpaint&gt; in the menu below to add or paint terrain.</mouseText>
       <touchText>Tap on the Terrain Tool &lt;terrainpaint&gt; in the menu below to add or paint terrain.</touchText>
     </Crumb>
@@ -765,7 +764,7 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseTerrainUpDown</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Terrain UpDown Tool &lt;terrainUpDown&gt; in the menu below to modify your terrain.</mouseText>
       <touchText>Tap on the Terrain UpDown Tool &lt;terrainUpDown&gt; in the menu below to modify your terrain.</touchText>
     </Crumb>
@@ -782,7 +781,7 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseTerrainSmoothLevel</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Terrain Smooth/Level Tool &lt;terrainsmoothlevel&gt; in the menu below to modify your terrain.</mouseText>
       <touchText>Tap on the Terrain Smooth/Level Tool &lt;terrainsmoothlevel&gt; in the menu below to modify your terrain.</touchText>
     </Crumb>
@@ -799,7 +798,7 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseTerrainSpikeyHilly</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Terrain Spikey/Hilly Tool &lt;terrainspikeyhilly&gt; in the menu below to modify your terrain.</mouseText>
       <touchText>Tap on the Terrain Spikey/Hilly Tool &lt;terrainspikeyhilly&gt; in the menu below to modify your terrain.</touchText>
     </Crumb>
@@ -816,7 +815,7 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseWater</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Water Tool &lt;water&gt; in the menu below to add or change water.</mouseText>
       <touchText>Tap on the Water Tool &lt;water&gt; in the menu below to add or change water.</touchText>
     </Crumb>
@@ -833,7 +832,7 @@
         <mode>MouseWater</mode>
       </curModes>
       <targetMode>MouseDeleteObjects</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on the Delete Objects Tool &lt;deleteobjects&gt; in the menu below to quickly remove objects from your world.</mouseText>
       <touchText>Tap on the Delete Objects Tool &lt;deleteobjects&gt; in the menu below to quickly remove objects from your world.</touchText>
     </Crumb>
@@ -851,7 +850,7 @@
         <mode>MouseDeleteObjects</mode>
       </curModes>
       <targetMode>MouseWorldSettings</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Click on World Settings &lt;worldsettings&gt; in the menu below.</mouseText>
       <touchText>Tap on World Settings &lt;worldsettings&gt; in the menu below.</touchText>
     </Crumb>
@@ -1039,7 +1038,7 @@
         <mode>MouseWorldSettings</mode>
       </curModes>
       <targetMode>MouseCameraMove</targetMode>
-      <gamepadText></gamepadText>
+      <gamepadText/>
       <mouseText>Press [esc] to return to the tool menu.</mouseText>
     </Crumb>
 
@@ -1059,7 +1058,7 @@
       </curModes>
       <targetMode>GamepadEditObjectFocus</targetMode>
       <gamepadText>Move the cursor to the character.</gamepadText>
-      <mouseText></mouseText>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
@@ -1067,7 +1066,7 @@
       </curModes>
       <targetMode>GamepadEditObject</targetMode>
       <gamepadText>Move the cursor to an empty space.</gamepadText>
-      <mouseText></mouseText>
+      <mouseText/>
     </Crumb>
 
     <Crumb>
@@ -1106,19 +1105,18 @@
         <mode>MouseHome</mode>
       </curModes>
       <targetMode>HomeMenu</targetMode>
-      <gamepadText></gamepadText>
-      <mouseText></mouseText>
+      <gamepadText/>
+      <mouseText/>
     </Crumb>
     <Crumb>
       <curModes>
         <mode>MousePlay</mode>
       </curModes>
       <targetMode>InGame</targetMode>
-      <gamepadText></gamepadText>
-      <mouseText></mouseText>
+      <gamepadText/>
+      <mouseText/>
     </Crumb>
 
 
   </Crumbs>
 </CrumbList>
-
